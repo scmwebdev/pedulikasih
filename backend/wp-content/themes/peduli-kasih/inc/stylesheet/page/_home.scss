@@ -1,0 +1,25 @@
+/* ===============================
+ * Home Styling (frontpage)
+ * =============================== */
+
+.frontpage {
+    padding-top: 2em !important;
+    padding-bottom: 5em;
+}
+
+.frontpage .program {
+    &-list {
+    	transition: .6s;
+    	cursor: pointer;
+        &:hover {
+            transform: translate(0, -4em);
+            border-bottom: 1px solid $color-1;
+        }
+    }
+}
+
+.frontpage .user-content {
+    &-title {
+        text-align: center;
+    }
+}

@@ -1,0 +1,13 @@
+/* ===================================
+ * Megamenu Styling
+ * =================================== */
+
+.onepress-menu {
+    a {
+    	// font-size: 1.1em;
+        @extend .__bold;
+        &:hover {
+            color: $color-1;
+        }
+    }
+}

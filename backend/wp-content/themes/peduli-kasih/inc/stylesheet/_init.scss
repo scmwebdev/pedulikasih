@@ -1,0 +1,13 @@
+/* ===================================
+ * list of overrides and base style
+ * =================================== */
+
+/* set the base font */
+body {
+	font-size: 12pt;
+}
+
+// remove position fixed
+.sticky-header .site-header {
+    position: relative;
+}
