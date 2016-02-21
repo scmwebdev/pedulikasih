@@ -11,15 +11,25 @@ get_header(); ?>
 		<main id="main" class="site-main" role="main">
 			<div class="container">
 				<div class="program clearfix">
-					<div class="program-list col-xs-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/kitapeduli_logo.png'; ?>" alt="">
+					<div class="program-list program-list-kitapeduli col-xs-6 col-sm-4">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/kitapeduli_logo.png'; ?>" alt="program - kita peduli">
 					</div>
-					<div class="program-list col-xs-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikasih_logo.png'; ?>" alt="">
+					<div class="program-list program-list-pedulikasih col-xs-6 col-sm-4">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikasih_logo.png'; ?>" alt="program - peduli kasih">
 					</div>
-					<div class="program-list col-xs-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="">
+
+					<?php if(wp_is_mobile()) { ?>
+					<div class="col-xs-12 spacepad">
+						<div class="program-list program-list-pedulikomunitas">
+							<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
+						</div>
 					</div>
+					
+					<?php } else { ?>
+					<div class="program-list program-list-pedulikomunitas col-xs-6 col-sm-4">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
+					</div>
+					<?php } ?>
 				</div>
 				<div class="user-content __spacemar">
 					<div class="user-content-title">

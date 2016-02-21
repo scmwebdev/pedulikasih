@@ -11,9 +11,22 @@
     &-list {
     	transition: .6s;
     	cursor: pointer;
+        @include spacemar(15px);
         &:hover {
             transform: translate(0, -4em);
-            border-bottom: 1px solid $color-1;
+            > img {
+                border-bottom: 1px solid $color-1;
+            }
+            
+        }
+        &-pedulikomunitas {
+
+            // manually set the peduli komunitas img to 50%
+            > img {
+                @include breakpoint('xs') {
+                    width: 50%;
+                }
+            }
         }
     }
 }
@@ -21,5 +34,10 @@
 .frontpage .user-content {
     &-title {
         text-align: center;
+    }
+    &-post {
+        @include breakpoint('xs') {
+            text-align: center;
+        }
     }
 }
