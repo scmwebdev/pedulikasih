@@ -1,6 +1,6 @@
 <?php
 /**
- *Template Name: indosiarpeduli-generic
+ *Template Name: indosiarpeduli-subfront
  *
  * @package OnePress
  */
@@ -17,19 +17,18 @@ get_header(); ?>
 					<?php get_template_part('inc/template/content', 'submenu') ?>
 				</aside>
 				<div class="user-content <?php is_child(); ?>">
-					<?php  
-						global $post;
-						
-						if ( is_page() && $post->post_parent ) { ?>
-							<?php $getParentLink = get_permalink( $post->post_parent ); ?>
-							<h1><?php the_title(); ?></h1>
-							<div class="__spacepad">
-								<?php the_content(); ?>
-							</div>
-							<div class="__right __spacepad">
-								<a href="<?php echo $getParentLink ?>"><button type="button" class="btn btn-primary btn-back">back</button></a>
-							</div>
-					<?php } ?>
+					<h3>Daftar Donatur</h3>
+					<table class="table">
+					    <thead>
+					        <tr>
+					            <th>Nama</th>
+					            <th>Kota</th>
+					            <th>Donasi</th>
+					        </tr>
+					    </thead>
+					    <tbody id="donatur-data">
+					    </tbody>
+					</table>
 				</div>
 
 			</div>

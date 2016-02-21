@@ -1,25 +1,3 @@
-<!-- <ul class="__nodot"> -->
-	<!-- <li class="">
-		<a href="<?php echo get_permalink( $post->post_parent ).'sejarah'; ?>" title="">Sejarah</a>
-	</li>
-	<li class="">
-		<a href="" title="">Kegiatan</a>
-	</li>
-	<li class="">
-		<a href="" title="">Donatur</a>
-	</li>
-	<li class="">
-		<a href="" title="">Laporan Audit</a>
-	</li>
-	<li class="">
-		<a href="" title="">Laporan Tahunan</a>
-	</li>
-	<li class="">
-		<a href="" title="">Kontak</a>
-	</li> -->
-<!-- </ul> -->
-<?php //wpb_list_child_pages(); ?>
-
 <?php
 
 $args = array(

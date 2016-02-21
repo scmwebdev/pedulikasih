@@ -14,7 +14,8 @@ body {
 }
 
 // remove default padding-top
-.page-template .site-content {
+.page-template .site-content,
+.single .site-content {
     padding-top: 2em !important;
     padding-bottom: 5em;
 }

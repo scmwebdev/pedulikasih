@@ -9,13 +9,9 @@ get_header(); ?>
 <div id="content" class="site-content generic">
 	<main id="main" class="site-main" role="main">
 		<div class="container">
-			<?php 
-
-				/* grabs parent thumbnail (works for the parent itself)  	*/
-				if( has_post_thumbnail( $post->post_parent ) ) { 
-				  echo get_the_post_thumbnail( $post->post_parent, 'site_logo_med' );
-				}
-			?>
+			<?php if( has_post_thumbnail( $post->post_parent ) ) { ?>
+				<a href="<?php echo get_permalink( $post->post_parent); ?>"><?php echo get_the_post_thumbnail( $post->post_parent, 'site_logo_med' ); ?></a>
+			<?php } ?>
 			<div class="row">
 				<aside class="submenu col-xs-12 col-sm-3">
 					<?php get_template_part('inc/template/content', 'submenu') ?>
@@ -32,8 +28,6 @@ get_header(); ?>
 
 									$parent_title = strtolower(get_the_title($post->post_parent));
 									$title = strtolower(get_the_title());
-
-									$args = 'category_name=artikel&order=ASC';
 									$query = new WP_Query( array( 'category_name' => $parent_title.'+'.$title ) ); //get 2 cat at the same time
 									while ($query->have_posts()) : $query->the_post();
 										get_template_part( 'inc/template/content', 'kegiatan' );
