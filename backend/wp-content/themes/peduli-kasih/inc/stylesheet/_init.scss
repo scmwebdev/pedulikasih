@@ -2,12 +2,19 @@
  * list of overrides and base style
  * =================================== */
 
+
 /* set the base font */
 body {
-	font-size: 12pt;
+    font-size: 12pt;
 }
 
 // remove position fixed
 .sticky-header .site-header {
     position: relative;
+}
+
+// remove default padding-top
+.page-template .site-content {
+    padding-top: 2em !important;
+    padding-bottom: 5em;
 }

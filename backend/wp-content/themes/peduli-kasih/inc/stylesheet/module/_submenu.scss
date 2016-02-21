@@ -1,0 +1,17 @@
+/* ===================================
+ * Submenu Styling
+ * =================================== */
+
+.submenu {
+    a {
+        padding: 5px 10px;
+        display: block;
+        text-decoration: none !important;
+        &:hover {
+        	background: $color-3;
+        	color: #fff;
+
+        }
+        
+    }
+}

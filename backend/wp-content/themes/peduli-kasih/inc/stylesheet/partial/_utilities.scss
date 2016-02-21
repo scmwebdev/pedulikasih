@@ -32,6 +32,10 @@
 	font-weight: 700 !important;
 }
 
+ul.__nodot li {
+	list-style-type: none !important;
+}
+
 .active {
 	display: block;
 }

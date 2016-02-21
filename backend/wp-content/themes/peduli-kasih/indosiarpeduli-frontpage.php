@@ -19,12 +19,9 @@ get_header(); ?>
 					</div>
 
 					<?php if(wp_is_mobile()) { ?>
-					<div class="col-xs-12 spacepad">
-						<div class="program-list program-list-pedulikomunitas">
-							<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
-						</div>
+					<div class="program-list program-list-pedulikomunitas">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
 					</div>
-					
 					<?php } else { ?>
 					<div class="program-list program-list-pedulikomunitas col-xs-6 col-sm-4">
 						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
