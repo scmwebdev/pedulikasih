@@ -3,9 +3,12 @@
 		<h3><?php the_title(); ?></h3>
 
 	</div>
-	<div class="item-list-img col-xs-12 col-sm-2">
-		<?php the_post_thumbnail('square_small'); ?>
-	</div>
+	<?php if ( has_post_thumbnail() ) { ?>
+		<div class="item-list-img col-xs-12 col-sm-2">
+			<?php the_post_thumbnail('square_small'); ?>
+		</div>
+	<?php } ?>
+
 	<div class="item-list-text col-xs-12 col-sm-10">
 		<?php the_date('Y-m-d', '<span class="item-list-date "><small><i>', '</i></small></span>'); ?>
 		<?php the_excerpt(); ?>

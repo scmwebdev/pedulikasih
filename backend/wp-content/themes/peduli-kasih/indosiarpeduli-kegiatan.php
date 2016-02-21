@@ -1,6 +1,6 @@
 <?php
 /**
- *Template Name: indosiarpeduli-kegiatan
+ *Template Name: indosiarpeduli-page
  *
  * @package OnePress
  */
@@ -31,14 +31,14 @@ get_header(); ?>
 								<?php 
 
 									$parent_title = strtolower(get_the_title($post->post_parent));
+									$title = strtolower(get_the_title());
 
 									$args = 'category_name=artikel&order=ASC';
-									$query = new WP_Query( array( 'category_name' => $parent_title.'+artikel' ) ); //get 2 cat at the same time
+									$query = new WP_Query( array( 'category_name' => $parent_title.'+'.$title ) ); //get 2 cat at the same time
 									while ($query->have_posts()) : $query->the_post();
 										get_template_part( 'inc/template/content', 'kegiatan' );
 									endwhile;
 								?>
-
 							</div>
 							<div class="__right __spacepad">
 								<a href="<?php echo $getParentLink ?>"><button type="button" class="btn btn-primary btn-back">back</button></a>
