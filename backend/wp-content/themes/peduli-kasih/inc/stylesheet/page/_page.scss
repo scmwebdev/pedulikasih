@@ -1,1 +1,5 @@
 @import 'home';
+
+.user-content {
+	@extend .__spacepad;
+}

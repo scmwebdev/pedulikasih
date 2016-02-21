@@ -12,8 +12,6 @@ var reload = browserSync.reload;
 /* path to peduli kasih theme */
 var path = 'backend/wp-content/themes/peduli-kasih';
 
-
-
 gulp.task('sass', function() {
     gulp.src(path + '/inc/stylesheet/main.scss')
         .pipe(plumber())
@@ -43,7 +41,8 @@ gulp.task('browserSync', function() {
 
     var files = [
         './style.css',
-        './*.php'
+        './*.php',
+        './inc/template/*.php'
     ];
 
     browserSync.init(files, {

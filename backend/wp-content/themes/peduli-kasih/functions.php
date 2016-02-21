@@ -115,10 +115,50 @@ function compare_keys() {
 
 }
 
+/* ==================================================================
+ * Display child pages list
+ * ================================================================== */
+
+function wpb_list_child_pages() { 
+
+global $post; 
+
+if ( is_page() && $post->post_parent )
+
+  $childpages = wp_list_pages( 'sort_column=menu_order&title_li=&child_of=' . $post->post_parent . '&echo=0' );
+else
+  $childpages = wp_list_pages( 'sort_column=menu_order&title_li=&child_of=' . $post->ID . '&echo=0' );
+
+if ( $childpages ) {
+
+  $string = '<ul>' . $childpages . '</ul>';
+}
+
+return $string;
+
+}
+
+add_shortcode('wpb_childpages', 'wpb_list_child_pages');
+
+
+function is_child() {
+  global $post;     // if outside the loop
+
+  if ( is_page() && $post->post_parent ) {
+    // This is a subpage
+    echo 'col-xs-12';
+
+  } else {
+    // This is not a subpage
+    echo 'col-xs-12 col-sm-9';
+  }
+}
 
 /* Enable featured image on pages/posts */
 add_theme_support( 'post-thumbnails' );
 
 /* Add additional image size */
-add_image_size( 'site_logo', 100, 100, true ); //for site logo
-add_image_size( 'site_logo_med', 150, 150, true ); //for site logo
+add_image_size( 'site_logo', 100, 100, true );
+add_image_size( 'site_logo_med', 150, 150, true );
+add_image_size( 'square_small', 200, 200, true );
+add_image_size( 'square', 300, 300, true );
