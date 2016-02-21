@@ -15,7 +15,7 @@
 
 		<div class="entry-meta">
 			<?php //onepress_posted_on(); ?>
-			<span>posted on <?php the_date('Y-m-d')?></span>
+			<span>posted on <?php the_date('l, F j Y')?></span>
 		</div><!-- .entry-meta -->
 	</header><!-- .entry-header -->
 
