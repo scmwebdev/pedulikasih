@@ -26,7 +26,7 @@ get_header(); ?>
 							<div class="__spacepad">
 								<?php 
 
-									$parent_tilte = strtolower(get_the_title($post->post_parent));
+									$parent_title = strtolower(get_the_title($post->post_parent));
 									$title = strtolower(get_the_title());
 									$query = new WP_Query( array( 'category_name' => $parent_title.'+'.$title ) ); //get 2 cat at the same time
 									while ($query->have_posts()) : $query->the_post();
