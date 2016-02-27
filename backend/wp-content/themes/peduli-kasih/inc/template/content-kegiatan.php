@@ -4,10 +4,10 @@
 
 	</div>
 	<?php if ( has_post_thumbnail() ) { ?>
-		<div class="item-list-img col-xs-12 col-sm-2">
+		<div class="item-list-img col-xs-12 col-sm-3">
 			<?php the_post_thumbnail('square_small'); ?>
 		</div>
-		<div class="item-list-text col-xs-12 col-sm-10">
+		<div class="item-list-text col-xs-12 col-sm-9">
 			<?php the_date('Y-m-d', '<span class="item-list-date "><small><i>', '</i></small></span>'); ?>
 			<?php the_excerpt(); ?>
 		</div>
@@ -19,8 +19,6 @@
 			<?php the_content(); ?>
 		</div>
 	<?php } ?>
-
-
 </div>
 <div class="__spacepad __spacemar">
 	<hr>

@@ -122,20 +122,14 @@ function compare_keys() {
 function wpb_list_child_pages() { 
 
 global $post; 
-
 if ( is_page() && $post->post_parent )
-
   $childpages = wp_list_pages( 'sort_column=menu_order&title_li=&child_of=' . $post->post_parent . '&echo=0' );
 else
   $childpages = wp_list_pages( 'sort_column=menu_order&title_li=&child_of=' . $post->ID . '&echo=0' );
-
 if ( $childpages ) {
-
-  $string = '<ul>' . $childpages . '</ul>';
+  $string = '<ul class="__nodot __nopaddingleft">' . $childpages . '</ul>';
 }
-
 return $string;
-
 }
 
 add_shortcode('wpb_childpages', 'wpb_list_child_pages');
@@ -154,6 +148,7 @@ function is_child() {
   }
 }
 
+
 /* Enable featured image on pages/posts */
 add_theme_support( 'post-thumbnails' );
 
@@ -162,3 +157,65 @@ add_image_size( 'site_logo', 100, 100, true );
 add_image_size( 'site_logo_med', 150, 150, true );
 add_image_size( 'square_small', 200, 200, true );
 add_image_size( 'square', 300, 300, true );
+
+ini_set( 'mysql.trace_mode', 0 ); 
+
+function custom_pagination($numpages = '', $pagerange = '', $paged='') {
+
+  if (empty($pagerange)) {
+    $pagerange = 2;
+  }
+
+  /**
+   * This first part of our function is a fallback
+   * for custom pagination inside a regular loop that
+   * uses the global $paged and global $wp_query variables.
+   * 
+   * It's good because we can now override default pagination
+   * in our theme, and use this function in default quries
+   * and custom queries.
+   */
+  global $paged;
+  if (empty($paged)) {
+    $paged = 1;
+  }
+  if ($numpages == '') {
+    global $wp_query;
+    $numpages = $wp_query->max_num_pages;
+    if(!$numpages) {
+        $numpages = 1;
+    }
+  }
+
+  /** 
+   * We construct the pagination arguments to enter into our paginate_links
+   * function. 
+   */
+  $pagination_args = array(
+    'base'            => get_pagenum_link(1) . '%_%',
+    'format'          => 'page/%#%',
+    'total'           => $numpages,
+    'current'         => $paged,
+    'show_all'        => False,
+    'end_size'        => 1,
+    'mid_size'        => $pagerange,
+    'prev_next'       => True,
+    'prev_text'       => __('&laquo;'),
+    'next_text'       => __('&raquo;'),
+    'type'            => 'plain',
+    'add_args'        => false,
+    'add_fragment'    => ''
+  );
+
+  $paginate_links = paginate_links($pagination_args);
+
+  if ($paginate_links) {
+    echo "<nav class='custom-pagination clearfix text-center'>";
+      //echo "<span class='page-numbers page-num'>Page " . $paged . " of " . $numpages . "</span> ";
+      echo $paginate_links;
+    echo "</nav>";
+  }
+
+}
+
+?>
