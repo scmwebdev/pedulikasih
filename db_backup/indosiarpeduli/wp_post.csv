@@ -1,0 +1,895 @@
+ID,post_author,post_date,post_date_gmt,post_content,post_title,post_excerpt,post_status,comment_status,ping_status,post_password,post_name,to_ping,pinged,post_modified,post_modified_gmt,post_content_filtered,post_parent,guid,menu_order,post_type,post_mime_type,comment_count
+1,1,20-02-16 6:16,20-02-16 6:16,"Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",Hello world!,,trash,open,open,,hello-world,,,21-02-16 11:01,21-02-16 11:01,,0,http://localhost/pedulikasih/backend/?p=1,0,post,,1
+2,1,20-02-16 6:16,20-02-16 6:16,"This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href=""http://localhost/pedulikasih/backend/wp-admin/"">your dashboard</a> to delete this page and create new pages for your content. Have fun!",Sample Page,,publish,closed,open,,sample-page,,,20-02-16 6:16,20-02-16 6:16,,0,http://localhost/pedulikasih/backend/?page_id=2,0,page,,0
+6,1,20-02-16 7:37,0000-00-00 00:00:00, ,,,draft,closed,closed,,,,,20-02-16 7:37,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?p=6,1,nav_menu_item,,0
+7,1,20-02-16 7:43,20-02-16 7:43,"Merujuk kepada Dasar Negara Republik Indonesia, Pancasila, dan alenia ke-4 Pembukaan Undang-Undang Dasar 1945, serta didorong oleh keinginan luhur untuk turut serta mewujudkan bangsa yang mandiri dan sejahtera, maka Perseroan tidak berhenti pada pencarian keuntungan finansial semata, tetapi juga berupaya memberikan sumbangsih bagi masyarakat banyak sesuai dengan tanggung jawab sosial perusahaan.
+
+Wujud tanggung jawab sosial Perseroan dimulai sejak awal pendirian, berangkat dari lingkungan sekitar dan terus berkembang hingga menggapai seluruh masyarakat Indonesia tanpa terkecuali. Sebagai media penyampai informasi yang memiliki kemampuan menjangkau jutaan pemirsa secara cepat pada saat yang bersamaan, Perseroan senantiasa merasa terpanggil untuk memberikan kontribusi lebih bagi masyarakat Indonesia. Dengan dana yang berasal dari Perseroan dan kedermawanan sosial masyarakat (filantropi) yang digalang oleh Perseroan sebagai wujud kepedulian sosial serta bagian dari fungsi dan peran sosial media massa, Perseroan menyelenggarakan tiga program, yaitu : <a href=""http://www.indosiar.com/pedulikasih"">Peduli Kasih</a>, <a href=""http://www.indosiar.com/kitapeduli"">Kita Peduli</a>, dan <a href=""http://www.indosiar.com/pedulikomunitas"">Peduli Komunitas</a> di bawah payung Indosiar Peduli. Demi menjaga transparansi dan akuntabilitas, Laporan Keuangan Indosiar Peduli diaudit secara berkala oleh Kantor Akuntan Publik Independen. Seluruh dana yang dihimpun dari pemirsa dapat dipantau melalui <i>website</i> <a href=""http://www.indosiar.com"">www.indosiar.com</a>",Beranda,,publish,closed,closed,,beranda,,,21-02-16 14:55,21-02-16 14:55,,0,http://localhost/pedulikasih/?page_id=7,0,page,,0
+8,1,20-02-16 7:43,20-02-16 7:43, ,,,publish,closed,closed,,8,,,21-02-16 16:05,21-02-16 16:05,,0,http://localhost/pedulikasih/2016/02/20/8/,1,nav_menu_item,,0
+9,1,20-02-16 7:43,20-02-16 7:43,,Beranda,,inherit,closed,closed,,7-revision-v1,,,20-02-16 7:43,20-02-16 7:43,,7,http://localhost/pedulikasih/2016/02/20/7-revision-v1/,0,revision,,0
+11,1,20-02-16 8:02,20-02-16 8:02,,indosiarpeduli_logo,,inherit,open,closed,,indosiarpeduli_logo,,,20-02-16 8:02,20-02-16 8:02,,0,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/indosiarpeduli_logo.jpg,0,attachment,image/jpeg,0
+12,1,20-02-16 8:09,20-02-16 8:09,,indosiarpeduli_logo,,inherit,open,closed,,indosiarpeduli_logo-2,,,20-02-16 8:09,20-02-16 8:09,,0,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/indosiarpeduli_logo-1.jpg,0,attachment,image/jpeg,0
+13,1,20-02-16 10:38,20-02-16 10:38,"Merujuk kepada Dasar Negara Republik Indonesia, Pancasila, dan alenia ke-4 Pembukaan Undang-Undang Dasar 1945, serta didorong oleh keinginan luhur untuk turut serta mewujudkan bangsa yang mandiri dan sejahtera, maka Perseroan tidak berhenti pada pencarian keuntungan finansial semata, tetapi juga berupaya memberikan sumbangsih bagi masyarakat banyak sesuai dengan tanggung jawab sosial perusahaan.
+
+Wujud tanggung jawab sosial Perseroan dimulai sejak awal pendirian, berangkat dari lingkungan sekitar dan terus berkembang hingga menggapai seluruh masyarakat Indonesia tanpa terkecuali. Sebagai media penyampai informasi yang memiliki kemampuan menjangkau jutaan pemirsa secara cepat pada saat yang bersamaan, Perseroan senantiasa merasa terpanggil untuk memberikan kontribusi lebih bagi masyarakat Indonesia. Dengan dana yang berasal dari Perseroan dan kedermawanan sosial masyarakat (filantropi) yang digalang oleh Perseroan sebagai wujud kepedulian sosial serta bagian dari fungsi dan peran sosial media massa, Perseroan menyelenggarakan tiga program, yaitu : <a href=""http://www.indosiar.com/pedulikasih"">Peduli Kasih</a>, <a href=""http://www.indosiar.com/kitapeduli"">Kita Peduli</a>, dan <a href=""http://www.indosiar.com/pedulikomunitas"">Peduli Komunitas</a> di bawah payung Indosiar Peduli. Demi menjaga transparansi dan akuntabilitas, Laporan Keuangan Indosiar Peduli diaudit secara berkala oleh Kantor Akuntan Publik Independen. Seluruh dana yang dihimpun dari pemirsa dapat dipantau melalui <i>website</i> <a href=""http://www.indosiar.com"">www.indosiar.com</a>",Beranda,,inherit,closed,closed,,7-revision-v1,,,20-02-16 10:38,20-02-16 10:38,,7,http://localhost/pedulikasih/2016/02/20/7-revision-v1/,0,revision,,0
+14,1,21-02-16 4:13,21-02-16 4:13,,Kita Peduli,,publish,closed,closed,,kita-peduli,,,21-02-16 15:37,21-02-16 15:37,,0,http://localhost/pedulikasih/?page_id=14,0,page,,0
+15,1,21-02-16 4:13,21-02-16 4:13, ,,,publish,closed,closed,,15,,,21-02-16 16:05,21-02-16 16:05,,0,http://localhost/pedulikasih/2016/02/21/15/,2,nav_menu_item,,0
+16,1,21-02-16 4:13,21-02-16 4:13,,Kita Peduli,,inherit,closed,closed,,14-revision-v1,,,21-02-16 4:13,21-02-16 4:13,,14,http://localhost/pedulikasih/2016/02/21/14-revision-v1/,0,revision,,0
+17,1,21-02-16 4:13,21-02-16 4:13,,Peduli Kasih,,publish,closed,closed,,peduli-kasih,,,21-02-16 16:30,21-02-16 16:30,,0,http://localhost/pedulikasih/?page_id=17,0,page,,0
+18,1,21-02-16 4:13,21-02-16 4:13, ,,,publish,closed,closed,,18,,,21-02-16 16:05,21-02-16 16:05,,0,http://localhost/pedulikasih/2016/02/21/18/,5,nav_menu_item,,0
+19,1,21-02-16 4:13,21-02-16 4:13,,Peduli Kasih,,inherit,closed,closed,,17-revision-v1,,,21-02-16 4:13,21-02-16 4:13,,17,http://localhost/pedulikasih/2016/02/21/17-revision-v1/,0,revision,,0
+20,1,21-02-16 4:13,21-02-16 4:13,,Peduli Komunitas,,publish,closed,closed,,peduli-komunitas,,,21-02-16 4:13,21-02-16 4:13,,0,http://localhost/pedulikasih/?page_id=20,0,page,,0
+22,1,21-02-16 4:13,21-02-16 4:13,,Peduli Komunitas,,inherit,closed,closed,,20-revision-v1,,,21-02-16 4:13,21-02-16 4:13,,20,http://localhost/pedulikasih/2016/02/21/20-revision-v1/,0,revision,,0
+23,1,21-02-16 4:29,21-02-16 4:29,,Donatur,,trash,closed,closed,,donatur-2,,,21-02-16 7:54,21-02-16 7:54,,0,http://localhost/pedulikasih/?page_id=23,0,page,,0
+24,1,21-02-16 4:30,0000-00-00 00:00:00,,Auto Draft,,auto-draft,closed,closed,,,,,21-02-16 4:30,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?page_id=24,0,page,,0
+25,1,21-02-16 4:31,21-02-16 4:31,,Donatur,,trash,closed,closed,,donatur,,,21-02-16 14:49,21-02-16 14:49,,0,http://localhost/pedulikasih/?page_id=25,0,page,,0
+27,1,21-02-16 4:31,21-02-16 4:31,,Donatur,,inherit,closed,closed,,25-revision-v1,,,21-02-16 4:31,21-02-16 4:31,,25,http://localhost/pedulikasih/2016/02/21/25-revision-v1/,0,revision,,0
+28,1,10-12-15 7:53,10-12-15 7:53,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3>PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.
+","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,publish,open,open,,sanitasi-kurang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo,,,21-02-16 14:15,21-02-16 14:15,,0,http://localhost/pedulikasih/?p=28,0,post,,0
+29,1,21-02-16 7:53,21-02-16 7:53,"Kita Peduli dibentuk dengan tujuan memberikan respon cepat bagi warga saat terkena bencana alam serta meringankan penderitaan masyarakat pada masa pasca bencana.
+
+Kegiatan yang awalnya dibentuk saat Bengkulu dihantam gempa bumi pada tahun 2001 ini, bertugas merespon cepat setiap bencana alam yang terjadi di Indonesia dengan menyalurkan bantuan dari Perseroan dan kedermawanan sosial masyarakat (filantropi) berupa makanan, obat-obatan, selimut, alat penerangan, dan lain sebagainya. Selain bantuan-bantuan tersebut, Kita Peduli juga melakukan pembangunan dan perbaikan infrastruktur di daerah yang tertimpa bencana.
+
+Dalam melaksanakan aktivitasnya, Kita Peduli bekerjasama dengan berbagai nstitusi pendidikan, lembaga swadaya masyarakat, Satuan Koordinasi Pelaksana (Satkorlak) Pemerintah Daerah Setempat dan berbagai tim sukarelawan.",Sejarah,,inherit,closed,closed,,28-revision-v1,,,21-02-16 7:53,21-02-16 7:53,,28,http://localhost/pedulikasih/2016/02/21/28-revision-v1/,0,revision,,0
+30,1,21-02-16 7:54,21-02-16 7:54,"Kita Peduli dibentuk dengan tujuan memberikan respon cepat bagi warga saat terkena bencana alam serta meringankan penderitaan masyarakat pada masa pasca bencana.
+
+Kegiatan yang awalnya dibentuk saat Bengkulu dihantam gempa bumi pada tahun 2001 ini, bertugas merespon cepat setiap bencana alam yang terjadi di Indonesia dengan menyalurkan bantuan dari Perseroan dan kedermawanan sosial masyarakat (filantropi) berupa makanan, obat-obatan, selimut, alat penerangan, dan lain sebagainya. Selain bantuan-bantuan tersebut, Kita Peduli juga melakukan pembangunan dan perbaikan infrastruktur di daerah yang tertimpa bencana.
+
+Dalam melaksanakan aktivitasnya, Kita Peduli bekerjasama dengan berbagai nstitusi pendidikan, lembaga swadaya masyarakat, Satuan Koordinasi Pelaksana (Satkorlak) Pemerintah Daerah Setempat dan berbagai tim sukarelawan.",kita-peduli-sejarah,,inherit,closed,closed,,28-revision-v1,,,21-02-16 7:54,21-02-16 7:54,,28,http://localhost/pedulikasih/2016/02/21/28-revision-v1/,0,revision,,0
+31,1,21-02-16 7:54,21-02-16 7:54,,Donatur,,inherit,closed,closed,,23-revision-v1,,,21-02-16 7:54,21-02-16 7:54,,23,http://localhost/pedulikasih/2016/02/21/23-revision-v1/,0,revision,,0
+32,1,21-02-16 7:55,21-02-16 7:55,,Sejarah,,trash,closed,closed,,sejarah,,,21-02-16 15:02,21-02-16 15:02,,0,http://localhost/pedulikasih/?page_id=32,0,page,,0
+33,1,21-02-16 7:57,21-02-16 7:57,"Kita Peduli dibentuk dengan tujuan memberikan respon cepat bagi warga saat terkena bencana alam serta meringankan penderitaan masyarakat pada masa pasca bencana.
+
+Kegiatan yang awalnya dibentuk saat Bengkulu dihantam gempa bumi pada tahun 2001 ini, bertugas merespon cepat setiap bencana alam yang terjadi di Indonesia dengan menyalurkan bantuan dari Perseroan dan kedermawanan sosial masyarakat (filantropi) berupa makanan, obat-obatan, selimut, alat penerangan, dan lain sebagainya. Selain bantuan-bantuan tersebut, Kita Peduli juga melakukan pembangunan dan perbaikan infrastruktur di daerah yang tertimpa bencana.
+
+Dalam melaksanakan aktivitasnya, Kita Peduli bekerjasama dengan berbagai institusi pendidikan, lembaga swadaya masyarakat, Satuan Koordinasi Pelaksana (Satkorlak) Pemerintah Daerah Setempat dan berbagai tim sukarelawan.",Sejarah,,trash,closed,closed,,sejarah-2,,,21-02-16 16:01,21-02-16 16:01,,17,http://localhost/pedulikasih/?page_id=33,0,page,,0
+34,1,21-02-16 7:57,21-02-16 7:57,,Sejarah,,inherit,closed,closed,,33-revision-v1,,,21-02-16 7:57,21-02-16 7:57,,33,http://localhost/pedulikasih/2016/02/21/33-revision-v1/,0,revision,,0
+35,1,21-02-16 8:24,21-02-16 8:24,,kitapeduli_logo,,inherit,open,closed,,kitapeduli_logo,,,21-02-16 8:24,21-02-16 8:24,,0,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/kitapeduli_logo.png,0,attachment,image/png,0
+36,1,21-02-16 8:25,21-02-16 8:25,,pedulikasih_logo,,inherit,open,closed,,pedulikasih_logo,,,21-02-16 8:25,21-02-16 8:25,,0,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/pedulikasih_logo.png,0,attachment,image/png,0
+37,1,21-02-16 8:25,21-02-16 8:25,,pedulikomunitas_logo,,inherit,open,closed,,pedulikomunitas_logo,,,21-02-16 8:25,21-02-16 8:25,,0,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/pedulikomunitas_logo.png,0,attachment,image/png,0
+38,1,21-02-16 9:20,21-02-16 9:20,"Kita Peduli dibentuk dengan tujuan memberikan respon cepat bagi warga saat terkena bencana alam serta meringankan penderitaan masyarakat pada masa pasca bencana.
+
+Kegiatan yang awalnya dibentuk saat Bengkulu dihantam gempa bumi pada tahun 2001 ini, bertugas merespon cepat setiap bencana alam yang terjadi di Indonesia dengan menyalurkan bantuan dari Perseroan dan kedermawanan sosial masyarakat (filantropi) berupa makanan, obat-obatan, selimut, alat penerangan, dan lain sebagainya. Selain bantuan-bantuan tersebut, Kita Peduli juga melakukan pembangunan dan perbaikan infrastruktur di daerah yang tertimpa bencana.
+
+Dalam melaksanakan aktivitasnya, Kita Peduli bekerjasama dengan berbagai institusi pendidikan, lembaga swadaya masyarakat, Satuan Koordinasi Pelaksana (Satkorlak) Pemerintah Daerah Setempat dan berbagai tim sukarelawan.",Sejarah,,inherit,closed,closed,,33-revision-v1,,,21-02-16 9:20,21-02-16 9:20,,33,http://localhost/pedulikasih/2016/02/21/33-revision-v1/,0,revision,,0
+39,1,21-02-16 10:07,21-02-16 10:07,,Kegiatan,,publish,closed,closed,,kegiatan,,,27-02-16 8:59,27-02-16 8:59,,14,http://localhost/pedulikasih/?page_id=39,0,page,,0
+41,1,21-02-16 10:07,21-02-16 10:07,KegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatanKegiatan,Kegiatan,,inherit,closed,closed,,39-revision-v1,,,21-02-16 10:07,21-02-16 10:07,,39,http://localhost/pedulikasih/2016/02/21/39-revision-v1/,0,revision,,0
+43,1,21-02-16 10:53,21-02-16 10:53,,Kegiatan,,inherit,closed,closed,,39-revision-v1,,,21-02-16 10:53,21-02-16 10:53,,39,http://localhost/pedulikasih/2016/02/21/39-revision-v1/,0,revision,,0
+44,1,21-02-16 10:56,21-02-16 10:56,,Laporan Audit,,publish,closed,closed,,laporan,,,27-02-16 9:00,27-02-16 9:00,,14,http://localhost/pedulikasih/?page_id=44,0,page,,0
+46,1,21-02-16 10:56,21-02-16 10:56,,Laporan Audit,,inherit,closed,closed,,44-revision-v1,,,21-02-16 10:56,21-02-16 10:56,,44,http://localhost/pedulikasih/2016/02/21/44-revision-v1/,0,revision,,0
+47,1,21-02-16 10:56,21-02-16 10:56,,Laporan Tahunan,,publish,closed,closed,,laporan-tahunan,,,27-02-16 9:01,27-02-16 9:01,,14,http://localhost/pedulikasih/?page_id=47,0,page,,0
+48,1,21-02-16 10:56,21-02-16 10:56,,Laporan Tahunan,,inherit,closed,closed,,47-revision-v1,,,21-02-16 10:56,21-02-16 10:56,,47,http://localhost/pedulikasih/2016/02/21/47-revision-v1/,0,revision,,0
+49,1,21-02-16 10:57,21-02-16 10:57,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,publish,closed,closed,,kontak,,,21-02-16 16:33,21-02-16 16:33,,14,http://localhost/pedulikasih/?page_id=49,0,page,,0
+50,1,21-02-16 10:57,21-02-16 10:57,,Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 10:57,21-02-16 10:57,,49,http://localhost/pedulikasih/2016/02/21/49-revision-v1/,0,revision,,0
+51,1,21-02-16 11:01,21-02-16 11:01,"Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",Hello world!,,inherit,closed,closed,,1-revision-v1,,,21-02-16 11:01,21-02-16 11:01,,1,http://localhost/pedulikasih/2016/02/21/1-revision-v1/,0,revision,,0
+52,1,21-02-16 11:01,0000-00-00 00:00:00,,Auto Draft,,auto-draft,open,open,,,,,21-02-16 11:01,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?p=52,0,post,,0
+53,1,21-02-16 11:02,21-02-16 11:02,"Dibentuk pada September 2000, Peduli Kasih adalah kelompok kerja yang memiliki tujuan khusus mengetuk hati pemirsa untuk ikut membantu masyarakat kurang mampu yang membutuhkan uluran tangan dalam biaya operasi dan pengobatan berbagai penyakit.
+
+Dengan dana yang berasal dari Perseroan dan kedermawanan sosial masyarakat (filantropi) yang digalang oleh Perseroan sebagai wujud kepedulian sosial serta bagian dari fungsi dan peran sosial media massa, Peduli Kasih membiayai antara lain: operasi jantung, hernia, kolostomi, hipospadia, atresia ani, gondok, katarak, dan bibir sumbing.
+
+Seluruh kegiatan Peduli Kasih dapat berjalan lancar berkat terjalinnya kerjasama yang baik dengan banyak rumah sakit, dokter dan sejumlah lembaga pemerintah maupun non-pemerintah di seluruh Indonesia. Biaya kegiatan operasional Peduli Kasih tidak diambil dari dana yang terhimpun, namun ditanggung sepenuhnya oleh Perseroan.",Sejarah,,publish,closed,closed,,sejarah,,,21-02-16 15:58,21-02-16 15:58,,17,http://localhost/pedulikasih/?page_id=53,0,page,,0
+54,1,21-02-16 11:02,21-02-16 11:02,,Sejarah,,inherit,closed,closed,,53-revision-v1,,,21-02-16 11:02,21-02-16 11:02,,53,http://localhost/pedulikasih/2016/02/21/53-revision-v1/,0,revision,,0
+55,1,21-02-16 11:04,21-02-16 11:04,"Dibentuk pada September 2000, Peduli Kasih adalah kelompok kerja yang memiliki tujuan khusus mengetuk hati pemirsa untuk ikut membantu masyarakat kurang mampu yang membutuhkan uluran tangan dalam biaya operasi dan pengobatan berbagai penyakit.
+
+Dengan dana yang berasal dari Perseroan dan kedermawanan sosial masyarakat (filantropi) yang digalang oleh Perseroan sebagai wujud kepedulian sosial serta bagian dari fungsi dan peran sosial media massa,<strong>Peduli Kasih membiayai antara lain: operasi jantung, hernia, kolostomi, hipospadia, atresia ani, gondok, katarak, dan bibir sumbing.</strong>
+
+Seluruh kegiatan Peduli Kasih dapat berjalan lancar berkat terjalinnya kerjasama yang baik dengan banyak rumah sakit, dokter dan sejumlah lembaga pemerintah maupun non-pemerintah di seluruh Indonesia. Biaya kegiatan operasional Peduli Kasih tidak diambil dari dana yang terhimpun, namun ditanggung sepenuhnya oleh Perseroan.",Sejarah,,inherit,closed,closed,,53-revision-v1,,,21-02-16 11:04,21-02-16 11:04,,53,http://localhost/pedulikasih/2016/02/21/53-revision-v1/,0,revision,,0
+56,1,21-02-16 11:06,0000-00-00 00:00:00,,Auto Draft,,auto-draft,open,open,,,,,21-02-16 11:06,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?p=56,0,post,,0
+57,1,21-02-16 11:07,21-02-16 11:07,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum faucibus libero eget venenatis. Quisque consectetur accumsan fermentum. Etiam nec imperdiet nulla. Cras non placerat augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis euismod dui. Donec ac tortor arcu. Donec tempor orci eget egestas imperdiet.",Lorem ipsum dolor sit amet,,inherit,closed,closed,,28-revision-v1,,,21-02-16 11:07,21-02-16 11:07,,28,http://localhost/pedulikasih/2016/02/21/28-revision-v1/,0,revision,,0
+58,1,21-02-16 11:09,21-02-16 11:09,"<h3 class=""csr_subtitle"">lokasi</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+<div></div>
+&nbsp;","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 11:09,21-02-16 11:09,,28,http://localhost/pedulikasih/2016/02/21/28-revision-v1/,0,revision,,0
+59,1,21-02-16 11:10,21-02-16 11:10,"<h3 class=""csr_subtitle"">lokasi</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+<h3> PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 11:10,21-02-16 11:10,,28,http://localhost/pedulikasih/2016/02/21/28-revision-v1/,0,revision,,0
+60,1,21-02-16 11:27,21-02-16 11:27,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667797,,inherit,open,closed,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667797,,,21-02-16 11:27,21-02-16 11:27,,28,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667797.jpg,0,attachment,image/jpeg,0
+61,1,21-02-16 12:08,21-02-16 12:08,"<h3 class=""csr_subtitle"">lokasi</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+<div></div>
+<h3> PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:08,21-02-16 12:08,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+62,1,21-02-16 12:09,21-02-16 12:09,"<h3>Lokasi</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+&nbsp;
+<div></div>
+<h3> PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:09,21-02-16 12:09,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+63,1,21-02-16 12:10,21-02-16 12:10,"<h3>Lokasi</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3> PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:10,21-02-16 12:10,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+64,1,21-02-16 12:21,21-02-16 12:21,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3> PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:21,21-02-16 12:21,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+65,1,21-02-16 12:22,21-02-16 12:22,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3>PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:22,21-02-16 12:22,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+66,1,21-02-16 12:45,21-02-16 12:45,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667689,,inherit,open,closed,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667689,,,21-02-16 12:45,21-02-16 12:45,,28,http://localhost/pedulikasih/backend/wp-content/uploads/2015/12/kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667689.jpg,0,attachment,image/jpeg,0
+67,1,21-02-16 12:45,21-02-16 12:45,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667708,,inherit,open,closed,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667708,,,21-02-16 12:45,21-02-16 12:45,,28,http://localhost/pedulikasih/backend/wp-content/uploads/2015/12/kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667708.jpg,0,attachment,image/jpeg,0
+68,1,21-02-16 12:45,21-02-16 12:45,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667772,,inherit,open,closed,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667772,,,21-02-16 12:45,21-02-16 12:45,,28,http://localhost/pedulikasih/backend/wp-content/uploads/2015/12/kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450667772.jpg,0,attachment,image/jpeg,0
+69,1,21-02-16 12:45,21-02-16 12:45,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450668008,,inherit,open,closed,,kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450668008,,,21-02-16 12:45,21-02-16 12:45,,28,http://localhost/pedulikasih/backend/wp-content/uploads/2015/12/kurangnya-sanitasi-yang-layak-kita-peduli-bangun-14-mck-di-desa-mardingding-karo-1450668008.jpg,0,attachment,image/jpeg,0
+70,1,21-02-16 12:48,21-02-16 12:48,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3>PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.
+
+[inpost_fancy thumb_width=""200"" thumb_height=""200"" post_id=""28"" thumb_margin_left=""0"" thumb_margin_bottom=""0"" thumb_border_radius=""2"" thumb_shadow=""0 1px 4px rgba(0, 0, 0, 0.2)"" id="""" random=""0"" group=""0"" border="""" show_in_popup=""0"" album_cover="""" album_cover_width=""200"" album_cover_height=""200"" popup_width=""800"" popup_max_height=""600"" popup_title=""Gallery"" type=""fancy"" sc_id=""sc1456058871164""]","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 12:48,21-02-16 12:48,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+71,1,21-02-16 12:53,21-02-16 12:53,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3>PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.
+","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-autosave-v1,,,21-02-16 12:53,21-02-16 12:53,,28,http://localhost/pedulikasih/28-autosave-v1/,0,revision,,0
+72,1,21-02-16 13:20,21-02-16 13:20,"<h3>LOKASI</h3>
+<div>Posko Mardingding
+Kel. Namanteran, Tanah Karo
+Medan</div>
+<div></div>
+&nbsp;
+<div></div>
+<h3>PELAKSANAAN KEGIATAN</h3>
+Dua tahun lamanya warga terdampak bencana letusan Gunung Sinabung bertahan di posko-posko pengungsian. Kebutuhan sanitasi yang layak menjadi hal penting untuk ditindaklanjuti karena kebersihan merupakan faktor utama dalam kesehatan.
+
+Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi bagi pengungsi Sinabung. Fasilitas berupa 14 unit MCK (Mandi, Cuci, Kakus) dibangun oleh tim Kita Peduli sejak tanggal 10 Desember 2015 di dua lokasi, Posko Mardinding dan Posko Gudang Jeruk (Desa Surbakti). Dengan estimasi 2 minggu, diharapkan pembangunan MCK tersebut dapat selesai dan dapat segera digunakan.
+
+Penyerahan bantuan MCK secara simbolis berupa peletakan batu pertama ini dihadiri oleh Direktur Utama Indosiar, Imam Sudjarwo, Kepala Departemen CSR Indosiar, Dewi Y. Miranti dan turut disaksikan oleh Ketua Posko, Sekdes Mardingding. Selain itu, acara penyerahan juga disertai dengan penyaluran simbolis kasur Palembang dan Selimut yang telah dibagikan pada September 2015 lalu.
+
+Indosiar berharap dengan pembangunan fasilitas MCK di posko pengungsian Sinabung dapat memenuhi kebutuhan warga akan akses sanitasi yang layak. Tentunya harus ada kesadaran warga setempat untuk membersihkan dan merawat fasilitas tersebut secara teratur.
+","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,inherit,closed,closed,,28-revision-v1,,,21-02-16 13:20,21-02-16 13:20,,28,http://localhost/pedulikasih/28-revision-v1/,0,revision,,0
+73,1,21-02-16 13:21,21-02-16 13:21,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf"" target=""_blank"" rel="""">Laporan Audit Kita Peduli 2013</a>",Laporan Audit Kita Peduli 2013,,publish,open,open,,laporan-audit-kita-peduli-2013,,,21-02-16 14:53,21-02-16 14:53,,0,http://localhost/pedulikasih/?p=73,0,post,,0
+74,1,21-02-16 13:21,21-02-16 13:21,Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen,Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 13:21,21-02-16 13:21,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+75,1,21-02-16 14:38,21-02-16 14:38,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+<a style=""line-height: 1.6;"" href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf"" target=""_blank"" rel="""">Laporan Audit Kita Peduli 2014</a>",Laporan Audit Kita Peduli 2014,,publish,open,open,,laporan-audit-kita-peduli-2014,,,21-02-16 14:55,21-02-16 14:55,,0,http://localhost/pedulikasih/?p=75,0,post,,0
+76,1,21-02-16 14:38,21-02-16 14:38,Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen,Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:38,21-02-16 14:38,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+77,1,21-02-16 14:41,21-02-16 14:41,,laporan-audit-kita-peduli-2014,,inherit,open,closed,,laporan-audit-kita-peduli-2014-2,,,21-02-16 14:41,21-02-16 14:41,,75,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf,0,attachment,application/pdf,0
+78,1,21-02-16 14:41,21-02-16 14:41,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">laporan-audit-kita-peduli-2014</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:41,21-02-16 14:41,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+79,1,21-02-16 14:41,21-02-16 14:41,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">laporan-audit-kita-peduli-2014</a>",Laporan Audit,,inherit,closed,closed,,44-revision-v1,,,21-02-16 14:41,21-02-16 14:41,,44,http://localhost/pedulikasih/44-revision-v1/,0,revision,,0
+80,1,21-02-16 14:41,21-02-16 14:41,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel=""""></a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:41,21-02-16 14:41,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+81,1,21-02-16 14:41,21-02-16 14:41,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel=""""></a>",Laporan Audit,,inherit,closed,closed,,44-revision-v1,,,21-02-16 14:41,21-02-16 14:41,,44,http://localhost/pedulikasih/44-revision-v1/,0,revision,,0
+82,1,21-02-16 14:42,21-02-16 14:42,,Laporan Audit,,inherit,closed,closed,,44-revision-v1,,,21-02-16 14:42,21-02-16 14:42,,44,http://localhost/pedulikasih/44-revision-v1/,0,revision,,0
+83,1,21-02-16 14:42,21-02-16 14:42,,Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:42,21-02-16 14:42,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+84,1,21-02-16 14:42,21-02-16 14:42,,Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-autosave-v1,,,21-02-16 14:42,21-02-16 14:42,,75,http://localhost/pedulikasih/75-autosave-v1/,0,revision,,0
+85,1,21-02-16 14:42,21-02-16 14:42,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel=""""></a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:42,21-02-16 14:42,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+86,1,21-02-16 14:42,21-02-16 14:42,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">report</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:42,21-02-16 14:42,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+87,1,21-02-16 14:43,21-02-16 14:43,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+<a href=""http://localhost/pedulikasih/laporan-audit-kita-peduli-2014/laporan-audit-kita-peduli-2014-2/""rel=""attachment wp-att-77"">laporan-audit-kita-peduli-2014</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:43,21-02-16 14:43,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+88,1,21-02-16 14:47,21-02-16 14:47,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/laporan-audit-kita-peduli-2014/laporan-audit-kita-peduli-2014-2/""rel=""attachment wp-att-77"">laporan-audit-kita-peduli-2014</a>
+
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">laporan-audit-kita-peduli-2014</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:47,21-02-16 14:47,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+89,1,21-02-16 14:48,21-02-16 14:48,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf"" rel=""""> laporan-audit-kita-peduli-2014</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:48,21-02-16 14:48,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+90,1,21-02-16 14:50,21-02-16 14:50,,laporan-audit-kita-peduli-2013,,inherit,open,closed,,laporan-audit-kita-peduli-2013-2,,,21-02-16 14:50,21-02-16 14:50,,73,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf,0,attachment,application/pdf,0
+91,1,21-02-16 14:50,21-02-16 14:50,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel="""">laporan-audit-kita-peduli-2013</a>",Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 14:50,21-02-16 14:50,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+92,1,21-02-16 14:51,21-02-16 14:51,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel=""""></a>",Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 14:51,21-02-16 14:51,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+93,1,21-02-16 14:51,21-02-16 14:51,"
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel="""">Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen</a>",Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 14:51,21-02-16 14:51,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+94,1,21-02-16 14:52,21-02-16 14:52,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel="""">laporan-audit-kita-peduli-2013</a>",Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 14:52,21-02-16 14:52,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+95,1,21-02-16 14:53,21-02-16 14:53,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2013 Dan Laporan Auditor Independen
+<a href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf"" target=""_blank"" rel="""">Laporan Audit Kita Peduli 2013</a>",Laporan Audit Kita Peduli 2013,,inherit,closed,closed,,73-revision-v1,,,21-02-16 14:53,21-02-16 14:53,,73,http://localhost/pedulikasih/73-revision-v1/,0,revision,,0
+96,1,21-02-16 14:55,21-02-16 14:55,"Laporan Penerimaan Dan Pengeluaran Kas Pada Dan Untuk Tahun Yang Berakhir Tanggal 31 Desember 2014 Dan Laporan Auditor Independen
+<a style=""line-height: 1.6;"" href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf"" target=""_blank"" rel="""">Laporan Audit Kita Peduli 2014</a>",Laporan Audit Kita Peduli 2014,,inherit,closed,closed,,75-revision-v1,,,21-02-16 14:55,21-02-16 14:55,,75,http://localhost/pedulikasih/75-revision-v1/,0,revision,,0
+97,1,21-02-16 14:56,0000-00-00 00:00:00,,Auto Draft,,auto-draft,open,open,,,,,21-02-16 14:56,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?p=97,0,post,,0
+98,1,21-02-16 15:02,21-02-16 15:02,,Sejarah,,inherit,closed,closed,,32-revision-v1,,,21-02-16 15:02,21-02-16 15:02,,32,http://localhost/pedulikasih/32-revision-v1/,0,revision,,0
+99,1,21-02-16 15:02,21-02-16 15:02,,Donatur,,publish,closed,closed,,donatur,,,21-02-16 15:02,21-02-16 15:02,,14,http://localhost/pedulikasih/?page_id=99,0,page,,0
+100,1,21-02-16 15:02,21-02-16 15:02,,Donatur,,inherit,closed,closed,,99-revision-v1,,,21-02-16 15:02,21-02-16 15:02,,99,http://localhost/pedulikasih/99-revision-v1/,0,revision,,0
+101,1,21-02-16 15:08,21-02-16 15:08, ,,,publish,closed,closed,,101,,,21-02-16 16:05,21-02-16 16:05,,14,http://localhost/pedulikasih/?p=101,3,nav_menu_item,,0
+102,1,21-02-16 15:08,21-02-16 15:08, ,,,publish,closed,closed,,102,,,21-02-16 16:05,21-02-16 16:05,,14,http://localhost/pedulikasih/?p=102,4,nav_menu_item,,0
+103,1,21-02-16 15:26,21-02-16 15:26,"Laporan kegiatan Indosiar Peduli selama tahun 2013
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel="""">laporan-audit-kita-peduli-2013</a>",Indosiar Peduli 2013,,publish,open,open,,indosiar-peduli-2013,,,21-02-16 15:26,21-02-16 15:26,,0,http://localhost/pedulikasih/?p=103,0,post,,0
+104,1,21-02-16 15:26,21-02-16 15:26,Laporan kegiatan Indosiar Peduli selama tahun 2013,Indosiar Peduli 2013,,inherit,closed,closed,,103-revision-v1,,,21-02-16 15:26,21-02-16 15:26,,103,http://localhost/pedulikasih/103-revision-v1/,0,revision,,0
+105,1,21-02-16 15:26,21-02-16 15:26,"Laporan kegiatan Indosiar Peduli selama tahun 2013
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2013.pdf""rel="""">laporan-audit-kita-peduli-2013</a>",Indosiar Peduli 2013,,inherit,closed,closed,,103-revision-v1,,,21-02-16 15:26,21-02-16 15:26,,103,http://localhost/pedulikasih/103-revision-v1/,0,revision,,0
+106,1,21-02-16 15:27,21-02-16 15:27,"Laporan kegiatan Indosiar Peduli selama tahun 2014
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">laporan-audit-kita-peduli-2014</a>",Indosiar Peduli 2014,,publish,open,open,,indosiar-peduli-2014,,,21-02-16 15:27,21-02-16 15:27,,0,http://localhost/pedulikasih/?p=106,0,post,,0
+107,1,21-02-16 15:27,21-02-16 15:27,"Laporan kegiatan Indosiar Peduli selama tahun 2014
+<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/laporan-audit-kita-peduli-2014.pdf""rel="""">laporan-audit-kita-peduli-2014</a>",Indosiar Peduli 2014,,inherit,closed,closed,,106-revision-v1,,,21-02-16 15:27,21-02-16 15:27,,106,http://localhost/pedulikasih/106-revision-v1/,0,revision,,0
+108,1,21-02-16 15:29,21-02-16 15:29,"PT Indosiar Visual Mandiri
+
+(Indosiar Peduli)
+
+Jl. Damai No. 11, Daan Mogot
+
+Jakarta 11510
+
+Telp. (021) 565-5711 atau (021) 566-6878
+
+Fax. (021) 5697-6827
+
+Web. www.indosiar.com/kitapeduli
+
+ 
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+
+*Kode Bank BCA 014
+
+HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.
+
+ 
+
+Follow us on
+
+Facebook : Indosiar Peduli
+
+Twitter     : @Indosiar_Peduli
+
+Youtube    : Indosiar Peduli
+
+ ",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:29,21-02-16 15:29,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+109,1,21-02-16 15:30,21-02-16 15:30,"PT Indosiar Visual Mandiri
+
+(Indosiar Peduli)
+
+Jl. Damai No. 11, Daan Mogot
+
+Jakarta 11510
+
+Telp. (021) 565-5711 atau (021) 566-6878
+
+Fax. (021) 5697-6827
+
+Web. www.indosiar.com/kitapeduli
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+
+*Kode Bank BCA 014
+
+HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.
+
+Follow us on
+
+Facebook : Indosiar Peduli
+
+Twitter : @Indosiar_Peduli
+
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:30,21-02-16 15:30,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+110,1,21-02-16 16:32,21-02-16 16:32,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 303 8888 a/n Indosiar (Peduli Kasih) Cabang Asemka
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-autosave-v1,,,21-02-16 16:32,21-02-16 16:32,,49,http://localhost/pedulikasih/49-autosave-v1/,0,revision,,0
+111,1,21-02-16 15:39,21-02-16 15:39,"PT Indosiar Visual Mandiri (Indosiar Peduli)
+
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+*Kode Bank BCA 014
+
+HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:39,21-02-16 15:39,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+112,1,21-02-16 15:41,21-02-16 15:41,"PT Indosiar Visual Mandiri (Indosiar Peduli)
+
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+*Kode Bank BCA 014
+
+<div class=""panel panel-danger"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.</div>
+
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:41,21-02-16 15:41,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+113,1,21-02-16 15:43,21-02-16 15:43,"PT Indosiar Visual Mandiri (Indosiar Peduli)
+
+<p class=""lead"">Alamat</p>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+*Kode Bank BCA 014
+
+<div class=""panel panel-danger"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.</div>
+
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:43,21-02-16 15:43,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+114,1,21-02-16 15:44,21-02-16 15:44,"PT Indosiar Visual Mandiri (Indosiar Peduli)
+
+<p class=""lead __bold"">Alamat</p>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+*Kode Bank BCA 014
+
+<div class=""panel panel-danger"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.</div>
+
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:44,21-02-16 15:44,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+115,1,21-02-16 15:44,21-02-16 15:44,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<p class=""lead __bold"">Alamat</p>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+*Kode Bank BCA 014
+
+<div class=""panel panel-danger"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.</div>
+
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:44,21-02-16 15:44,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+116,1,21-02-16 15:46,21-02-16 15:46,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<p class=""lead __bold"">Alamat</p>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank: <span class=""__bold"">BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)</span>
+*Kode Bank BCA 014
+
+<div class=""panel panel-danger"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA.</div>
+
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:46,21-02-16 15:46,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+117,1,21-02-16 15:46,21-02-16 15:46,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<p class=""lead __bold"">Alamat</p>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank: <span class=""__bold"">BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)</span>
+*Kode Bank BCA 014
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:46,21-02-16 15:46,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+118,1,21-02-16 15:47,21-02-16 15:47,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+""Kepedulian Kita, Harapan Mereka""
+
+Rekening Bank: <span class=""__bold"">BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)</span>
+*Kode Bank BCA 014
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:47,21-02-16 15:47,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+119,1,21-02-16 15:49,21-02-16 15:49,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+Follow us on
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:49,21-02-16 15:49,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+120,1,21-02-16 15:50,21-02-16 15:50,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 15:50,21-02-16 15:50,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+121,1,21-02-16 15:56,21-02-16 15:56,"Dibentuk pada September 2000, Peduli Kasih adalah kelompok kerja yang memiliki tujuan khusus mengetuk hati pemirsa untuk ikut membantu masyarakat kurang mampu yang membutuhkan uluran tangan dalam biaya operasi dan pengobatan berbagai penyakit.
+
+Dengan dana yang berasal dari Perseroan dan kedermawanan sosial masyarakat (filantropi) yang digalang oleh Perseroan sebagai wujud kepedulian sosial serta bagian dari fungsi dan peran sosial media massa, Peduli Kasih membiayai antara lain: operasi jantung, hernia, kolostomi, hipospadia, atresia ani, gondok, katarak, dan bibir sumbing.
+
+Seluruh kegiatan Peduli Kasih dapat berjalan lancar berkat terjalinnya kerjasama yang baik dengan banyak rumah sakit, dokter dan sejumlah lembaga pemerintah maupun non-pemerintah di seluruh Indonesia. Biaya kegiatan operasional Peduli Kasih tidak diambil dari dana yang terhimpun, namun ditanggung sepenuhnya oleh Perseroan.",Sejarah,,inherit,closed,closed,,53-revision-v1,,,21-02-16 15:56,21-02-16 15:56,,53,http://localhost/pedulikasih/53-revision-v1/,0,revision,,0
+122,1,21-02-16 15:59,21-02-16 15:59,,Kegiatan,,publish,closed,closed,,kegiatan,,,27-02-16 9:00,27-02-16 9:00,,17,http://localhost/pedulikasih/?page_id=122,0,page,,0
+123,1,21-02-16 15:59,21-02-16 15:59,,Kegiatan,,inherit,closed,closed,,122-revision-v1,,,21-02-16 15:59,21-02-16 15:59,,122,http://localhost/pedulikasih/122-revision-v1/,0,revision,,0
+124,1,21-02-16 16:00,21-02-16 16:00,"<h3>Persyaratan Pemohon:</h3>
+<ol>
+	<li>Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;</li>
+	<li>Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;</li>
+	<li>Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan fotokopi KTP &amp; Kartu Keluarga;</li>
+	<li>Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;</li>
+	<li>Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.</li>
+</ol>
+
+
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+
+<ol>
+	<li>Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;</li>
+	<li>Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.</li>
+	<li>Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:</li>
+	<ul>
+		<li>Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+		<li>Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal</li>
+		<li>Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.</li>
+	</ul>
+</ol>",Persyaratan,,publish,closed,closed,,persyaratan,,,21-02-16 16:46,21-02-16 16:46,,17,http://localhost/pedulikasih/?page_id=124,0,page,,0
+126,1,21-02-16 16:00,21-02-16 16:00,"Persyaratan Pemohon:
+Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;
+Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;
+Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;
+Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;
+Melampirkan fotokopi KTP & Kartu Keluarga;
+Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;
+Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.
+ 
+
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+
+Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;
+Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.
+Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:
+Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal;
+Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.",Persyaratan,,inherit,closed,closed,,124-revision-v1,,,21-02-16 16:00,21-02-16 16:00,,124,http://localhost/pedulikasih/124-revision-v1/,0,revision,,0
+127,1,21-02-16 16:01,21-02-16 16:01,"<a target=""_blank"" href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/Peduli-Kasih-Formulir.pdf""rel="""">Peduli Kasih Formulir</a>",Formulir,,publish,closed,closed,,formulir,,,21-02-16 16:07,21-02-16 16:07,,17,http://localhost/pedulikasih/?page_id=127,0,page,,0
+129,1,21-02-16 16:01,21-02-16 16:01,,Formulir,,inherit,closed,closed,,127-revision-v1,,,21-02-16 16:01,21-02-16 16:01,,127,http://localhost/pedulikasih/127-revision-v1/,0,revision,,0
+130,1,21-02-16 16:02,21-02-16 16:02,,Laporan Audit,,publish,closed,closed,,laporan-audit,,,21-02-16 16:02,21-02-16 16:02,,17,http://localhost/pedulikasih/?page_id=130,0,page,,0
+131,1,21-02-16 16:02,21-02-16 16:02,,Laporan Audit,,inherit,closed,closed,,130-revision-v1,,,21-02-16 16:02,21-02-16 16:02,,130,http://localhost/pedulikasih/130-revision-v1/,0,revision,,0
+132,1,21-02-16 16:03,21-02-16 16:03,,Laporan Tahunan,,publish,closed,closed,,laporan-tahunan,,,27-02-16 9:00,27-02-16 9:00,,17,http://localhost/pedulikasih/?page_id=132,0,page,,0
+134,1,21-02-16 16:03,21-02-16 16:03,,Laporan Tahunan,,inherit,closed,closed,,132-revision-v1,,,21-02-16 16:03,21-02-16 16:03,,132,http://localhost/pedulikasih/132-revision-v1/,0,revision,,0
+135,1,21-02-16 16:04,21-02-16 16:04,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 303 8888 a/n Indosiar (Peduli Kasih) Cabang Asemka
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,publish,closed,closed,,kontak,,,21-02-16 16:33,21-02-16 16:33,,17,http://localhost/pedulikasih/?page_id=135,0,page,,0
+136,1,21-02-16 16:04,21-02-16 16:04,,Kontak,,inherit,closed,closed,,135-revision-v1,,,21-02-16 16:04,21-02-16 16:04,,135,http://localhost/pedulikasih/135-revision-v1/,0,revision,,0
+137,1,21-02-16 16:07,21-02-16 16:07,,Peduli Kasih Formulir,,inherit,open,closed,,peduli-kasih-formulir,,,21-02-16 16:07,21-02-16 16:07,,127,http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/Peduli-Kasih-Formulir.pdf,0,attachment,application/pdf,0
+138,1,21-02-16 16:07,21-02-16 16:07,"<a href=""http://localhost/pedulikasih/backend/wp-content/uploads/2016/02/Peduli-Kasih-Formulir.pdf""rel="""">Peduli Kasih Formulir</a>",Formulir,,inherit,closed,closed,,127-revision-v1,,,21-02-16 16:07,21-02-16 16:07,,127,http://localhost/pedulikasih/127-revision-v1/,0,revision,,0
+139,1,21-02-16 16:07,21-02-16 16:07,"<a target=""_blank"" href=""//localhost:3000/pedulikasih/backend/wp-content/uploads/2016/02/Peduli-Kasih-Formulir.pdf""rel="""">Peduli Kasih Formulir</a>",Formulir,,inherit,closed,closed,,127-revision-v1,,,21-02-16 16:07,21-02-16 16:07,,127,http://localhost/pedulikasih/127-revision-v1/,0,revision,,0
+140,1,21-02-16 16:33,21-02-16 16:33,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 303 8888 a/n Indosiar (Peduli Kasih) Cabang Asemka
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,135-revision-v1,,,21-02-16 16:33,21-02-16 16:33,,135,http://localhost/pedulikasih/135-revision-v1/,0,revision,,0
+141,1,21-02-16 16:33,21-02-16 16:33,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 303 8888 a/n Indosiar (Peduli Kasih) Cabang Asemka
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 16:33,21-02-16 16:33,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+142,1,21-02-16 16:33,21-02-16 16:33,"<p class=""lead __bold"">PT Indosiar Visual Mandiri (Indosiar Peduli)</p>
+<span class=""__bold"">Alamat</span>
+Jl. Damai No. 11, Daan Mogot, Jakarta 11510
+Telp. (021) 565-5711 atau (021) 566-6878
+Fax. (021) 5697-6827
+<!-- Web. www.indosiar.com/kitapeduli -->
+
+<span class=""__bold"">""Kepedulian Kita, Harapan Mereka""</span>
+
+<span class=""__bold"">Rekening Bank</span>
+BCA 001 304 0009 a/n Indosiar.PT (Kita Peduli)
+<i>*Kode Bank BCA 014</i>
+
+<span style=""color: #ff0000;"">HATI-HATI TERHADAP PENIPUAN YANG MENGATASNAMAKAN KITA PEDULI, KAMI TIDAK PERNAH MENGGUNAKAN SMS/REKENING ATAS NAMA PERORANGAN DALAM MENGGALANG DANA PEMIRSA</span>
+
+<span class=""__bold"">Follow us on</span>
+Facebook : Indosiar Peduli
+Twitter : @Indosiar_Peduli
+Youtube : Indosiar Peduli",Kontak,,inherit,closed,closed,,49-revision-v1,,,21-02-16 16:33,21-02-16 16:33,,49,http://localhost/pedulikasih/49-revision-v1/,0,revision,,0
+143,1,21-02-16 16:36,21-02-16 16:36,"<h3>Persyaratan Pemohon:</h3>
+<ul>
+	<li>Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;</li>
+	<li>Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;</li>
+	<li>Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan fotokopi KTP &amp; Kartu Keluarga;</li>
+	<li>Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;</li>
+	<li>Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.</li>
+</ul>
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+
+Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;
+Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.
+Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:
+Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal;
+Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.",Persyaratan,,inherit,closed,closed,,124-revision-v1,,,21-02-16 16:36,21-02-16 16:36,,124,http://localhost/pedulikasih/124-revision-v1/,0,revision,,0
+144,1,21-02-16 16:38,21-02-16 16:38,"<h3>Persyaratan Pemohon:</h3>
+<ul>
+	<li>Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;</li>
+	<li>Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;</li>
+	<li>Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan fotokopi KTP &amp; Kartu Keluarga;</li>
+	<li>Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;</li>
+	<li>Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.</li>
+</ul>
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+<ul>
+	<li>Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;</li>
+	<li>Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.</li>
+	<li>Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:</li>
+	<li>Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal;
+Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.</li>
+</ul>",Persyaratan,,inherit,closed,closed,,124-autosave-v1,,,21-02-16 16:38,21-02-16 16:38,,124,http://localhost/pedulikasih/124-autosave-v1/,0,revision,,0
+145,1,21-02-16 16:38,21-02-16 16:38,"<h3>Persyaratan Pemohon:</h3>
+<ul>
+	<li>Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;</li>
+	<li>Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;</li>
+	<li>Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan fotokopi KTP &amp; Kartu Keluarga;</li>
+	<li>Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;</li>
+	<li>Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.</li>
+</ul>
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+<ul>
+	<li>Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;</li>
+	<li>Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.</li>
+	<li>Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:</li>
+	<ul>
+		<li>Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+		<li>Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal</li>
+		<li>Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.</li>
+	</ul>
+</ul>",Persyaratan,,inherit,closed,closed,,124-revision-v1,,,21-02-16 16:38,21-02-16 16:38,,124,http://localhost/pedulikasih/124-revision-v1/,0,revision,,0
+146,1,21-02-16 16:42,21-02-16 16:42,"<h3>Persyaratan Pemohon:</h3>
+<ol>
+	<li>Mengisi 3 lembar formulir yaitu: Permohonan Bantuan Pembiayaan, Surat Pernyataan, dan Data Pribadi Calon Tertanggung yang dapat di download pada Menu Formulir atau dapat diambil di Sekretariat Peduli Kasih Indosiar;</li>
+	<li>Melampirkan surat keterangan dokter yang telah ditandatangani dokter yang bersangkutan pada pemeriksaan awal, baik di puskesmas, klinik maupun rumah sakit, yang isinya menjelaskan: Jenis penyakit yang diderita, Tindakan medis yang perlu dilakukan, Perkiraan biaya;</li>
+	<li>Melampirkan Surat Keterangan Tidak Mampu (SKTM) dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan Surat Keterangan Tidak Memiliki BPJS/ JAMKESMAS/ JAMKESDA dari RT/RW/Kepala Desa;</li>
+	<li>Melampirkan fotokopi KTP &amp; Kartu Keluarga;</li>
+	<li>Melampirkan fotokopi Surat Keterangan Lahir/Akte Lahir untuk anak-anak yang belum tercatat di dalam Kartu Keluarga;</li>
+	<li>Melampirkan foto ukuran 3R (berwarna) kondisi keadaan terakhir pasien.</li>
+</ol>
+Jenis penyakit yang diderita pasien harus dapat disembuhkan berdasarkan rekomendasi dokter dengan ketentuan sebagai berikut:
+<ol>
+	<li>Peduli Kasih mendapatkan jaminan dari Dokter, bahwa jenis penyakit yang diderita calon pasien dapat disembuhkan;</li>
+	<li>Pasien yang mendapat jaminan dari Peduli Kasih, benar-benar menderita penyakit yang dapat dipertanggungjawabkan baik kepada donatur dan keluarga pasien itu sendiri.</li>
+	<li>Pembatasan jenis penyakit yang ditanggung Peduli Kasih sbb:</li>
+	<ul>
+		<li>Bukan penyakit yang membutuhkan penanganan berkelanjutan, seperti Anemia, Thalasemia, Tumor, Kanker, Hydrocephalus, dll;
+		<li>Bukan penyakit yang disebabkan gaya hidup seseorang, seperti paru-paru (perokok), hati dan ginjal</li>
+		<li>Program Alat Bantu Dengar, ortotik prostetik, kaki/tangan palsu dan alat penyangga lainnya, Tahun 2015 sementara dihentikan.</li>
+	</ul>
+</ol>",Persyaratan,,inherit,closed,closed,,124-revision-v1,,,21-02-16 16:42,21-02-16 16:42,,124,http://localhost/pedulikasih/124-revision-v1/,0,revision,,0
+147,1,27-02-16 5:20,0000-00-00 00:00:00,,Auto Draft,,auto-draft,open,open,,,,,27-02-16 5:20,0000-00-00 00:00:00,,0,http://localhost/pedulikasih/?p=147,0,post,,0
+148,1,27-02-16 5:21,27-02-16 5:21,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ","Lorem ipsum dolor sit amet, consectetur adipiscing elit.",,publish,open,open,,lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit,,,27-02-16 5:21,27-02-16 5:21,,0,http://localhost/pedulikasih/?p=148,0,post,,0
+149,1,27-02-16 5:21,27-02-16 5:21,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ","Lorem ipsum dolor sit amet, consectetur adipiscing elit.",,inherit,closed,closed,,148-revision-v1,,,27-02-16 5:21,27-02-16 5:21,,148,http://localhost/pedulikasih/148-revision-v1/,0,revision,,0
+150,1,27-02-16 5:21,27-02-16 5:21,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ","Lorem ipsum dolor sit amet,",,publish,open,open,,lorem-ipsum-dolor-sit-amet,,,27-02-16 5:21,27-02-16 5:21,,0,http://localhost/pedulikasih/?p=150,0,post,,0
+151,1,27-02-16 5:21,27-02-16 5:21,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ","Lorem ipsum dolor sit amet,",,inherit,closed,closed,,150-revision-v1,,,27-02-16 5:21,27-02-16 5:21,,150,http://localhost/pedulikasih/150-revision-v1/,0,revision,,0
+152,1,27-02-16 5:22,27-02-16 5:22,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ",consectetur adipiscing elit.,,publish,open,open,,consectetur-adipiscing-elit,,,27-02-16 5:22,27-02-16 5:22,,0,http://localhost/pedulikasih/?p=152,0,post,,0
+153,1,27-02-16 5:22,27-02-16 5:22,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. Cras ut risus aliquam, cursus purus ut, maximus odio. Donec sollicitudin lacus in suscipit vehicula. ",consectetur adipiscing elit.,,inherit,closed,closed,,152-revision-v1,,,27-02-16 5:22,27-02-16 5:22,,152,http://localhost/pedulikasih/152-revision-v1/,0,revision,,0
+154,1,27-02-16 5:24,27-02-16 5:24,"lor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique.
+lor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. …","ipsum dolor sit amet,",,publish,open,open,,154-2,,,27-02-16 5:24,27-02-16 5:24,,0,http://localhost/pedulikasih/?p=154,0,post,,0
+155,1,27-02-16 5:24,27-02-16 5:24,"lor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique.
+lor sit amet, consectetur adipiscing elit. Sed euismod viverra dui vel aliquet. Phasellus mauris elit, egestas id tempor ut, iaculis eget magna. Nunc pretium aliquam ante sed tristique. …","ipsum dolor sit amet,",,inherit,closed,closed,,154-revision-v1,,,27-02-16 5:24,27-02-16 5:24,,154,http://localhost/pedulikasih/154-revision-v1/,0,revision,,0
+156,1,28-02-16 5:24,28-02-16 5:24,Awal terbentuknya kegiatan Kita Peduli,kegiatan-kita-peduli-2001,,publish,open,open,,kegiatan-kita-peduli-2001,,,27-02-16 5:24,27-02-16 5:24,,,http://localhost/pedulikasih/?p=156,0,post,,0
+157,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama tahun 2002,Kegiatan Kita Peduli 2002,,publish,open,open,,Kegiatan Kita Peduli 2002,,,,,,,http://localhost/pedulikasih/?p=157,1,post,,1
+158,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama tahun 2003,Kegiatan Kita Peduli 2003,,publish,open,open,,Kegiatan Kita Peduli 2003,,,,,,,http://localhost/pedulikasih/?p=158,2,post,,2
+159,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama 2004,Kegiatan Kita Peduli 2004,,publish,open,open,,Kegiatan Kita Peduli 2004,,,,,,,http://localhost/pedulikasih/?p=159,3,post,,3
+160,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama 2006,Kegiatan Kita Peduli 2006,,publish,open,open,,Kegiatan Kita Peduli 2006,,,,,,,http://localhost/pedulikasih/?p=160,4,post,,4
+161,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama 2008,Kegiatan Kita Peduli 2008,,publish,open,open,,Kegiatan Kita Peduli 2008,,,,,,,http://localhost/pedulikasih/?p=161,5,post,,5
+162,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama tahun 2009,Kegiatan Kita Peduli 2009,,publish,open,open,,Kegiatan Kita Peduli 2009,,,,,,,http://localhost/pedulikasih/?p=162,6,post,,6
+163,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial selama tahun 2010,Kegiatan Kita Peduli 2010,,publish,open,open,,Kegiatan Kita Peduli 2010,,,,,,,http://localhost/pedulikasih/?p=163,7,post,,7
+164,1,28-02-16 5:24,28-02-16 5:24,Bakti Sosial Kita Peduli Korban Banjir Jakarta.,Bakti Sosial Korban Banjir Jakarta,,publish,open,open,,Bakti Sosial Korban Banjir Jakarta,,,,,,,http://localhost/pedulikasih/?p=164,8,post,,8
+165,1,28-02-16 5:24,28-02-16 5:24,Bakti Sosial Kita Peduli Penyerahan Bantuan Logistik: 5 Februari 2013,Bakti Sosial Penyerahan Bantuan Logistik,,publish,open,open,,Bakti Sosial Penyerahan Bantuan Logistik,,,,,,,http://localhost/pedulikasih/?p=165,9,post,,9
+166,1,28-02-16 5:24,28-02-16 5:24,Bakti Sosial Kita Peduli Penyerahan Bantuan Logistik 9 Februari 2013,Bakti Sosial Penyerahan Bantuan Logistik,,publish,open,open,,Bakti Sosial Penyerahan Bantuan Logistik,,,,,,,http://localhost/pedulikasih/?p=166,10,post,,10
+167,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli menyerahkan bantuan logistik untuk korban bencana longsor di Cililin, Bandung.",Bakti Sosial Penyerahan Bantuan Logistik Bencana Longsor Cililin,,publish,open,open,,Bakti Sosial Penyerahan Bantuan Logistik Bencana Longsor Cililin,,,,,,,http://localhost/pedulikasih/?p=167,11,post,,11
+168,1,28-02-16 5:24,28-02-16 5:24,"Bakti Sosial di Pulau Palu'e, Nusa Tenggara Timur, untuk membantu para korban bencana letusan gunung Rokatenda.","Bakti Sosial di Pulau Palu'e, NTT",,publish,open,open,,"Bakti Sosial di Pulau Palu'e, NTT",,,,,,,http://localhost/pedulikasih/?p=168,12,post,,12
+169,1,28-02-16 5:24,28-02-16 5:24,"Gempa Gempa berkekuatan 6,2 SR terjadi di Bener Meriah dan Aceh Tengah pada tanggal 2 Juli 2013.","Bakti Sosial Bencana Gempa di Bener Meriah dan Aceh Tengah, Nanggroe Aceh Darussalam",,publish,open,open,,"Bakti Sosial Bencana Gempa di Bener Meriah dan Aceh Tengah, Nanggroe Aceh Darussalam",,,,,,,http://localhost/pedulikasih/?p=169,13,post,,13
+170,1,28-02-16 5:24,28-02-16 5:24,Bakti sosial untuk bencana banjir bandang akibat jebolnya bendungan Way Ela di Maluku dan banjir air bah di Ambon dilaksanakan tanggal 4 - 8 Agustus 2013. ,"Bakti Sosial Banjir Way Ela Maluku Tengah, Banjir Air Bah dan Longsor Di Ambon",,publish,open,open,,"Bakti Sosial Banjir Way Ela Maluku Tengah, Banjir Air Bah dan Longsor Di Ambon",,,,,,,http://localhost/pedulikasih/?p=170,14,post,,14
+171,1,28-02-16 5:24,28-02-16 5:24,Kegiatan bakti sosial Kita Peduli kembali dilaksanakan di Pulau Palue dalam rangka membantu pengungsi letusan Gunung Rokatenda.,Bakti Sosial Penyaluran Obat-Obatan Bencana Rokatenda,,publish,open,open,,Bakti Sosial Penyaluran Obat-Obatan Bencana Rokatenda,,,,,,,http://localhost/pedulikasih/?p=171,15,post,,15
+172,1,28-02-16 5:24,28-02-16 5:24,Gunung Sinabung meletus pada Selasa (17/9) pukul 12.30 WIB dengan ketinggian 3.000 meter. ,Bakti Sosial Penyaluran Bantuan Logistik Bencana G.Sinabung,,publish,open,open,,Bakti Sosial Penyaluran Bantuan Logistik Bencana G.Sinabung,,,,,,,http://localhost/pedulikasih/?p=172,16,post,,16
+173,1,28-02-16 5:24,28-02-16 5:24,Bakti sosial Kita Peduli bencana G. Sinabung dilaksanakan pada tanggal 9-11 November 2013. Kegiatan baksos berupa pembagian logistik dan pengobatan umum dibeberapa posko utama penampungan.,"Bakti Sosial Pengobatan Umum Pengungsi G. Sinabung, Sumatera Utara",,publish,open,open,,"Bakti Sosial Pengobatan Umum Pengungsi G. Sinabung, Sumatera Utara",,,,,,,http://localhost/pedulikasih/?p=173,17,post,,17
+174,1,28-02-16 5:24,28-02-16 5:24,"Melihat bencana Sinabung masih berkelanjutan, Kita Peduli Indosiar kembali mengadakan baksos di Kabupaten Karo, Sumatera Utara.","Bakti Sosial Logistik Pengungsi G. Sinabung, Karo, Sumatera Utara",,publish,open,open,,"Bakti Sosial Logistik Pengungsi G. Sinabung, Karo, Sumatera Utara",,,,,,,http://localhost/pedulikasih/?p=174,18,post,,18
+175,1,28-02-16 5:24,28-02-16 5:24,Banjir Jakarta telah menyebabkan sebanyak 7.367 rumah (24.269 jiwa) terendam banjir. Pengungsi sebanyak 5.152 jiwa tersebar di 35 titik. Kita Peduli berusaha meringankan warga korban Banjir Jakarta dengan menyalurkan konsumsi dan obat-obatan.,Bakti Sosial Penyaluran Konsumsi Dan Obat-obatan Bencana Banjir Jakarta,,publish,open,open,,Bakti Sosial Penyaluran Konsumsi Dan Obat-obatan Bencana Banjir Jakarta,,,,,,,http://localhost/pedulikasih/?p=175,19,post,,19
+176,1,28-02-16 5:24,28-02-16 5:24,Gunung Sinabung yang masih dalam status SIAGA IV sampai saat ini mengakibatkan ribuan pengungsi terus bertahan di pengungsian. Ribuan pengungsi di posko-posko membutuhkan bantuan logistik seperti makanan dan obat-obatan.,Bakti Sosial Penyaluran Logistik Pengungsi Bencana G. Sinabung Tahap IV,,publish,open,open,,Bakti Sosial Penyaluran Logistik Pengungsi Bencana G. Sinabung Tahap IV,,,,,,,http://localhost/pedulikasih/?p=176,20,post,,20
+177,1,28-02-16 5:24,28-02-16 5:24,Banjir bandang dan longsor di Sulawesi Utara pada Rabu (15/1) menyebabkan 4000 Jiwa harus mengungsi ke tempat yang aman. Banjir bandang ini terjadi karena hujan ekstrem sehingga empat sungai besar di Kota Manado meluap dan menghanyutkan puluhan rumah dan kendaraan.,Bantuan Dana Untuk Korban Banjir Dan Longsor Sulawesi Utara,,publish,open,open,,Bantuan Dana Untuk Korban Banjir Dan Longsor Sulawesi Utara,,,,,,,http://localhost/pedulikasih/?p=177,21,post,,21
+178,1,28-02-16 5:24,28-02-16 5:24,Curah hujan yang tinggi selama sepekan terakhir mengakibatkan sebanyak 30.784 jiwa terpaksa mengungsi. Untuk meringankan beban para korban banjir Kita Peduli Indosiar menyalurkan logistik dibeberapa titik pengungsian di Jakarta.,Penyaluran Logistik Banjir Jakarta Di Taman Ratu Dan Duri Kepa,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Taman Ratu Dan Duri Kepa,,,,,,,http://localhost/pedulikasih/?p=178,22,post,,22
+179,1,28-02-16 5:24,28-02-16 5:24,"Cuaca ekstrem yang sedang melanda Indonesia sejak awal desember mengakibatkan banjir di beberapa kota di Jawa Tengah, salah satunya Kutoarjo.","Bantuan Dana Untuk Banjir Kutoarjo Purworejo, Jawa Tengah",,publish,open,open,,"Bantuan Dana Untuk Banjir Kutoarjo Purworejo, Jawa Tengah",,,,,,,http://localhost/pedulikasih/?p=179,23,post,,23
+180,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli Indosiar kembali menyalurkan bantuan dana sebesar 100 juta rupiah dan bantuan logistik untuk korban banjir & longsor di Sulawesi Utara. Sebelumnya, Kita Peduli telah menyalurkan bantuan Pemirsa sebesar 100 juta rupiah pada tanggal 16 Januari 2014.",Bantuan Dana Dan penyaluran Logistik Korban Banjir & Longsor Sulut Tahap II,,publish,open,open,,Bantuan Dana Dan penyaluran Logistik Korban Banjir & Longsor Sulut Tahap II,,,,,,,http://localhost/pedulikasih/?p=180,24,post,,24
+181,1,28-02-16 5:24,28-02-16 5:24,"Bencana alam melanda Indonesia secara berturut-turut, mulai dari meletusnya Gunung Sinabung kemudian disusul dengan banjir bandang & longsor di Manado & wil. Sulawesi Utara dengan kerusakan parah. Dengan dana dari Pemirsa, Kita Peduli Indosiar kembali membantu korban bencana dengan bantuan logistik.",Pengiriman Logistik Bencana G. Sinabung Dan Banjir Manado,,publish,open,open,,Pengiriman Logistik Bencana G. Sinabung Dan Banjir Manado,,,,,,,http://localhost/pedulikasih/?p=181,25,post,,25
+182,1,28-02-16 5:24,28-02-16 5:24,Bakti Sosial Pengobatan Umum Banjir Jakarta Wil. Kedoya Dan Kembangan,Pengobatan Umum Banjir Jakarta Wil. Kedoya Dan Kembangan,,publish,open,open,,Pengobatan Umum Banjir Jakarta Wil. Kedoya Dan Kembangan,,,,,,,http://localhost/pedulikasih/?p=182,26,post,,26
+183,1,28-02-16 5:24,28-02-16 5:24,Curah hujan yang tinggi masih menjadi penyebab banjir di wilayah Jakarta dan sekitarnya. Kita Peduli Indosiar kembali mengadakan bakti sosial untuk membantu meringankan beban korban banjir di wilayah Jakarta.,Pengobatan Umum Banjir Jakarta Wil. Ciledug,,publish,open,open,,Pengobatan Umum Banjir Jakarta Wil. Ciledug,,,,,,,http://localhost/pedulikasih/?p=183,27,post,,27
+184,1,28-02-16 5:24,28-02-16 5:24,"Bantuan logistik untuk korban banjir Jakarta masih terus disalurkan oleh Kita Peduli Indosiar. Kali ini logistik berupa 235 kardus mie instan diberikan untuk Posko Paroki Gregorius Agung Kotabumi, Tangerang",Penyaluran Logistik Banjir Jakarta Di Paroki Gregorius Kotabumi - Tangerang,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Paroki Gregorius Kotabumi - Tangerang,,,,,,,http://localhost/pedulikasih/?p=184,28,post,,28
+185,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli Indosiar mengirimkan 250 kardus mie instan dan 250 buah selimut untuk membantu korban banjir Jakarta di wilayah Grogol, Jakarta Barat.","Penyaluran Logistik Banjir Jakarta Di Gereja Kristoforus, Grogol",,publish,open,open,,"Penyaluran Logistik Banjir Jakarta Di Gereja Kristoforus, Grogol",,,,,,,http://localhost/pedulikasih/?p=185,29,post,,29
+186,1,28-02-16 5:24,28-02-16 5:24,Penyaluran bantuan logistik untuk warga korban banjir Jakarta di wilayah Teluk Gong berlangsung pada tanggal 29 Januari 2014.,"Penyaluran Logistik Banjir Jakarta Di Teluk Gong, Jakarta",,publish,open,open,,"Penyaluran Logistik Banjir Jakarta Di Teluk Gong, Jakarta",,,,,,,http://localhost/pedulikasih/?p=186,30,post,,30
+187,1,28-02-16 5:24,28-02-16 5:24,"Hari ini (27/01) Kita Peduli Indosiar menyalurkan bantuan logistik untuk korban banjir Jakarta di dua tempat yaitu, Ciledug Indah dan Taman Pinang.",Penyaluran Logistik Banjir Jakarta Di Ciledug Indah Dan Taman Pinang,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Ciledug Indah Dan Taman Pinang,,,,,,,http://localhost/pedulikasih/?p=187,31,post,,31
+188,1,28-02-16 5:24,28-02-16 5:24,Penyaluran logistik pemirsa INDOSIAR (175 kardus mie instan & 175 selimut) untuk Posko Banjir Jakarta Wilayah Tubagus Angke melalui Kita Peduli Indosiar.,Penyaluran Logistik Banjir Jakarta Di Jalan Tubagus Angke,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Jalan Tubagus Angke,,,,,,,http://localhost/pedulikasih/?p=188,32,post,,32
+189,1,28-02-16 5:24,28-02-16 5:24,Sudah sebulan lebih Jakarta didera Banjir. Lamanya banjir membuat puluhan ribu warga mulai terserang penyakit. Kita Peduli Indosiar berusaha meringankan beban warga korban banjir dengan mengadakan bakti sosial pengobatan umum secara gratis.,Bakti Sosial Pengobatan Umum Banjir Jakarta Wil. Kapuk Muara,,publish,open,open,,Bakti Sosial Pengobatan Umum Banjir Jakarta Wil. Kapuk Muara,,,,,,,http://localhost/pedulikasih/?p=189,33,post,,33
+190,1,28-02-16 5:24,28-02-16 5:24,Bantuan logistik berupa seragam sekolah sebanyak 239 buah telah disalurkan ke Yayasan Anak Yatim Laskar Langit yang berlokasi di Penjaringan Jakarta Utara.,Penyaluran Logistik Yayasan Anak Yatim Laskar Langit Di Penjaringan Jakarta,,publish,open,open,,Penyaluran Logistik Yayasan Anak Yatim Laskar Langit Di Penjaringan Jakarta,,,,,,,http://localhost/pedulikasih/?p=190,34,post,,34
+191,1,28-02-16 5:24,28-02-16 5:24,Pada 11 Februari 2014 Kita Peduli INDOSIAR menyalurkan logistik ke dua lokasi banjir di Bekasi yang belum tersentuh bantuan yaitu Desa Setialaksana dan Desa Lenggahsari Kab. Cabangbungin.,"Penyaluran Logistik Ds Setialaksana Dan Ds Lenggahsari, Cabangbungin, Bekasi",,publish,open,open,,"Penyaluran Logistik Ds Setialaksana Dan Ds Lenggahsari, Cabangbungin, Bekasi",,,,,,,http://localhost/pedulikasih/?p=191,35,post,,35
+192,1,28-02-16 5:24,28-02-16 5:24,"Banyak pengungsi terutama di wilayah Jakarta Barat mulai terjangkit penyakit yang diakibatkan karena lingkungan yang kurang bersih, seperti sakit batuk, flu, gatal, demam, dan diare. Untuk itu, Kita Peduli mengadakan pengobatan umum gratis guna membantu meringankan penderitaan warga korban banjir. ","Pengobatan Umum Banjir Jakarta di Grogol, Pesing Dan Tegal Alur",,publish,open,open,,"Pengobatan Umum Banjir Jakarta di Grogol, Pesing Dan Tegal Alur",,,,,,,http://localhost/pedulikasih/?p=192,36,post,,36
+193,1,28-02-16 5:24,28-02-16 5:24,Curah hujan yang tinggi selama sepekan terakhir mengakibatkan sebanyak 30.784 jiwa terpaksa mengungsi. Untuk meringankan beban para korban banjir Kita Peduli Indosiar menyalurkan logistik dibeberapa titik pengungsian di Jakarta,Penyaluran Logistik Banjir Jakarta Di Pesing Dan Tegal Alur,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Pesing Dan Tegal Alur,,,,,,,http://localhost/pedulikasih/?p=193,37,post,,37
+194,1,28-02-16 5:24,28-02-16 5:24,"Pada tanggal 23/1/2014, Kita Peduli Indosiar membantu warga korban banjir dengan bantuan logistik di Kelurahan Duri Kepa sebanyak 100 selimut dan 50 kardus mie instan.",Penyaluran Logistik Banjir Jakarta Di Pesing Dan Tegal Alur,,publish,open,open,,Penyaluran Logistik Banjir Jakarta Di Pesing Dan Tegal Alur,,,,,,,http://localhost/pedulikasih/?p=194,38,post,,38
+195,1,28-02-16 5:24,28-02-16 5:24,"Banjir yang melanda sejumlah kawasan di Jakarta, Bekasi dan Tangerang mengakibatkan banyak warga terserang penyakit. Kita Peduli Indosiar telah membantu ribuan warga korban banjir beberapa lokasi di Jakarta dan Tangerang.","Pengobatan Umum Ds Setialaksana Dan Ds Lenggahsari, Cabangbungin, Bekasi",,publish,open,open,,"Pengobatan Umum Ds Setialaksana Dan Ds Lenggahsari, Cabangbungin, Bekasi",,,,,,,http://localhost/pedulikasih/?p=195,39,post,,39
+196,1,28-02-16 5:24,28-02-16 5:24,"Gunung Kelud di Kediri-Jawa Timur, meletus pada Kamis (13/2) pukul 22.50 WIB. Mengeluarkan material vulkanik & suara letusan sangat besar, status Kelud berada di SIAGA IV (level tertinggi).","Bantuan Logistik Dan Pengobatan Umum Pengungsi Gunung Kelud, Kediri",,publish,open,open,,"Bantuan Logistik Dan Pengobatan Umum Pengungsi Gunung Kelud, Kediri",,,,,,,http://localhost/pedulikasih/?p=196,40,post,,40
+197,1,28-02-16 5:24,28-02-16 5:24,Banjir di Pananukan menyebabkan kemacetan di Pantura sepanjang 9 Km ke arah Jakarta. Penyebab banjir adalah meluapnya Sungai Bugel di Indramayu. ,Penyaluran Logistik Bencana Banjir Pamanukan Di Jawa Barat,,publish,open,open,,Penyaluran Logistik Bencana Banjir Pamanukan Di Jawa Barat,,,,,,,http://localhost/pedulikasih/?p=197,41,post,,41
+198,1,28-02-16 5:24,28-02-16 5:24,"Untuk meringankan beban warga Jakarta yang terkena dampak banjir, Kita Peduli INDOSIAR melakukan bakti sosial pengobatan umum di Penjagalan, Jakarta Utara.","Pengobatan Umum Banjir Jakarta Di Teluk Gong, Penjagalan, Jakarta",,publish,open,open,,"Pengobatan Umum Banjir Jakarta Di Teluk Gong, Penjagalan, Jakarta",,,,,,,http://localhost/pedulikasih/?p=198,42,post,,42
+199,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli menyalurkan bantuan logistik untuk warga korban banjir di kecamatan Pakis, Karawang pada tanggal 26 Februari 2014.","Penyaluran Logistik Banjir Di Kecamatan Pakis, Karawang",,publish,open,open,,"Penyaluran Logistik Banjir Di Kecamatan Pakis, Karawang",,,,,,,http://localhost/pedulikasih/?p=199,43,post,,43
+200,1,28-02-16 5:24,28-02-16 5:24,"Intensitas curah hujan di Jakarta dan sekitarnya sudah mulai berkurang. Namun, dampak banjir besar beberapa saat lalu masih dirasakan oleh warga Desa Karangharja.","Penyaluran Logistik Banjir Untuk Desa Karangharja, Bekasi",,publish,open,open,,"Penyaluran Logistik Banjir Untuk Desa Karangharja, Bekasi",,,,,,,http://localhost/pedulikasih/?p=200,44,post,,44
+201,1,28-02-16 5:24,28-02-16 5:24,Kita Peduli kembali menyalurkan bantuan pemirsa untuk warga Karawang yang terkena dampak banjir di Desa Telukjaya.,"Penyaluran Logistik Banjir DesaTelukjaya, Karawang",,publish,open,open,,"Penyaluran Logistik Banjir DesaTelukjaya, Karawang",,,,,,,http://localhost/pedulikasih/?p=201,45,post,,45
+202,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli bekerjasama dengan RS Atmajaya menyelenggarakan pelayanan kesehatan untuk warga Kec. Penjaringan, Jakarta.",Pengobatan Umum Massal Kerjasama RS Atmajaya,,publish,open,open,,Pengobatan Umum Massal Kerjasama RS Atmajaya,,,,,,,http://localhost/pedulikasih/?p=202,46,post,,46
+203,1,28-02-16 5:24,28-02-16 5:24,Pemerintah  Jawa Timur telah menyatakan  penurunan status awas menjadi siaga Gunung Kelud. Para pengsungsi telah kembali ke rumah masing-masing untuk ,Disaster Capacity Building in Emergency Response,,publish,open,open,,Disaster Capacity Building in Emergency Response,,,,,,,http://localhost/pedulikasih/?p=203,47,post,,47
+204,1,28-02-16 5:24,28-02-16 5:24,Kita Peduli INDOSIAR turut mendukung program WVI dengan memberikan sikat gigi gratis sebanyak 20 lusin lebih secara langsung di kantor sekretariat WVI pada tanggal 28 Maret 2014,Penyaluran Sikat Gigi Untuk Wahana Visi Indonesia (World Vision),,publish,open,open,,Penyaluran Sikat Gigi Untuk Wahana Visi Indonesia (World Vision),,,,,,,http://localhost/pedulikasih/?p=204,48,post,,48
+205,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli datang menuju di Desa Selandi untuk menyalurkan seng guna membantu perbaikan atap rumah korban bencana Gunung Sinabung, Kabupaten Karo.",Penyaluran Bantuan Seng Untuk Atap Rumah Pengungsi Sinabung,,publish,open,open,,Penyaluran Bantuan Seng Untuk Atap Rumah Pengungsi Sinabung,,,,,,,http://localhost/pedulikasih/?p=205,49,post,,49
+206,1,28-02-16 5:24,28-02-16 5:24,"Dengan alokasi dana Pemirsa INDOSIAR sebesar 100 juta, Kita Peduli INDOSIAR bersama Caritas Maumere menyelenggarakan program perbaikan gizi melalui beberapa kegiatan khusus.",Perbaikan Gizi Pengungsi Rokatenda Di Flores,,publish,open,open,,Perbaikan Gizi Pengungsi Rokatenda Di Flores,,,,,,,http://localhost/pedulikasih/?p=206,50,post,,50
+207,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli Indosiar kembali menyalurkan bantuannya kepada korban letusan gunung Rokantenda yang mengungsi ke Maumere, Kabupaten Sikka, NTT. Bantuan yang diberikan merupakan makanan tambahan terutama untuk ibu hamil dan anak-anak balita.",Penyaluran Bantuan Lanjutan Untuk Pengungsi Rokatenda,,publish,open,open,,Penyaluran Bantuan Lanjutan Untuk Pengungsi Rokatenda,,,,,,,http://localhost/pedulikasih/?p=207,51,post,,51
+208,1,28-02-16 5:24,28-02-16 5:24,"Kita Peduli menyalurkan bantuan logistik yang berasal dari dana kemanusiaan Pemirsa INDOSIAR untuk pengungsi Sinabung. Bantuan berupa 14,5 Ton beras, 3 Ton minyak goreng dan 6.000 butir telur disebar dibeberapa lokasi pengungsian.",Kita Peduli Salurkan Bantuan Logistik Ke Pengungsi Sinabung,,publish,open,open,,Kita Peduli Salurkan Bantuan Logistik Ke Pengungsi Sinabung,,,,,,,http://localhost/pedulikasih/?p=208,52,post,,52
+209,1,28-02-16 5:24,28-02-16 5:24,"Indosiar melalui Kita Peduli menyalurkan bantuan Pemirsa berupa 1.000 selimut, produk Cap Lang (2.000 minyak kayu putih dan 1.000 minyak telon) dan pembangunan mck (mandi, cuci, kakus) di beberapa titik pengungsian di Banjarnegara. ",Bantuan Pemirsa Indosiar Untuk Longsor Banjarnegara,,publish,open,open,,Bantuan Pemirsa Indosiar Untuk Longsor Banjarnegara,,,,,,,http://localhost/pedulikasih/?p=209,53,post,,53
+210,1,28-02-16 5:24,28-02-16 5:24,"Sebagai wadah yang dipercaya Pemirsa untuk menyalurkan bantuan kepada korban longsor Banjarnegara, Kita Peduli Indosiar bersama Pundi Amal SCTV mendukung Pemerintah dengan ikut menyediakan kebutuhan bahan bangunan dan mendirikan 7 unit MCK (Mandi, Cuci, Kakus) untuk rumah huntap Desa Kalitlaga.",Pemirsa Indosiar Salurkan Bantuan Longsor Banjarnegara Tahap Dua,,publish,open,open,,Pemirsa Indosiar Salurkan Bantuan Longsor Banjarnegara Tahap Dua,,,,,,,http://localhost/pedulikasih/?p=210,54,post,,54
+211,1,28-02-16 5:24,28-02-16 5:24,"Tim Kita Peduli menuju Kebon Kosong untuk membagikan 27 pasang sepatu gratis kepada para warga. Bapak Yahya selaku Ketua RT. 03/03, mewakili warga menerima dengan hangat bantuan dari Kita Peduli. ",Kita Peduli Sumbang Sepatu Untuk Korban Kebakaran Kemayoran,,publish,open,open,,Kita Peduli Sumbang Sepatu Untuk Korban Kebakaran Kemayoran,,,,,,,http://localhost/pedulikasih/?p=211,55,post,,55
+212,1,28-02-16 5:24,28-02-16 5:24,Tim Kita Peduli dengan sigap merespon kebutuhan warga terdampak banjir dengan menyalurkan bantuan logistik Pemirsa Indosiar sejak tanggal 10-16 Februari 2015 di beberapa kawasan banjir. ,Kita Peduli Salurkan Bantuan Bencana Banjir Jakarta,,publish,open,open,,Kita Peduli Salurkan Bantuan Bencana Banjir Jakarta,,,,,,,http://localhost/pedulikasih/?p=212,56,post,,56
+213,1,28-02-16 5:24,28-02-16 5:24,"Bakti sosial pengobatan umum bekerja sama dengan OBI (Obor Berkat Indonesia) dilaksanakan di Kantor Sekretariat RW. 05, Tegal Alur, Jakarta Barat. Total pasien yang mengikuti kegiatan ini sebanyak 415 orang.","Pasca Banjir Jakarta, Kita Peduli Indosiar Gelar Pengobatan Gratis",,publish,open,open,,"Pasca Banjir Jakarta, Kita Peduli Indosiar Gelar Pengobatan Gratis",,,,,,,http://localhost/pedulikasih/?p=213,57,post,,57
+214,1,28-02-16 5:24,28-02-16 5:24,"Bantuan pasca bencana berupa sembako kali ini ditujukan kepada warga Dusun Teluk Buyung, Kecamatan Pakisjaya, Karawang. Penyerahan sembako (beras, mie instan, minyak goreng dan air mineral) diterima oleh perwakilan warga, Bapak Syukron, yang mengucap rasa syukur atas bantuan pasca banjir ini. ",Warga Dusun Teluk Buyung Terima Bantuan Sembako Kita Peduli Indosiar,,publish,open,open,,Warga Dusun Teluk Buyung Terima Bantuan Sembako Kita Peduli Indosiar,,,,,,,http://localhost/pedulikasih/?p=214,58,post,,58
+215,1,28-02-16 5:24,28-02-16 5:24,Peduli Kasih dengan dana sumbangan Pemirsa Indosiar memberikan santunan berupa 3 unit laptop pada Yayasan Prima Unggul yang mengalami musibah kebakaran beberapa bulan lalu.,Indosiar Beri Santunan Laptop Yayasan Prima Unggul,,publish,open,open,,Indosiar Beri Santunan Laptop Yayasan Prima Unggul,,,,,,,http://localhost/pedulikasih/?p=215,59,post,,59
+216,1,28-02-16 5:24,28-02-16 5:24,"Bantuan logistik berupa tikar, kasur dan selimut yang masing-masing berjumlah 1.000 buah disebar oleh tim Kita Peduli ke beberapa posko yang menjadi tempat tinggal warga sehari-hari sejak terjadinya letusan Gunung Sinabung tahun 2013. ",Kita Peduli Tak Berhenti Berikan Bantuan Pengungsi Sinabung,,publish,open,open,,Kita Peduli Tak Berhenti Berikan Bantuan Pengungsi Sinabung,,,,,,,http://localhost/pedulikasih/?p=216,60,post,,60
+217,1,28-02-16 5:24,28-02-16 5:24,"Program CSR Indosiar, Kita Peduli, melangsungkan pelayanan kesehatan bagi warga korban longsor Banjarnegara yang terjadi tahun lalu. Menggunakan dana sumbangan Pemirsa Indosiar, pelayanan kesehatan pasca bencana ini turut didukung oleh TNI AL dan Yayasan OBI. ",Indosiar Langsungkan Pelayanan Kesehatan Korban Longsor Banjarnegara,,publish,open,open,,Indosiar Langsungkan Pelayanan Kesehatan Korban Longsor Banjarnegara,,,,,,,http://localhost/pedulikasih/?p=217,61,post,,61
+218,1,28-02-16 5:24,28-02-16 5:24,"Kini pada masa recovery, Kita Peduli Indosiar kembali menunjukkan kepeduliannya pada warga Kediri berupa penghijauan dan pembangunan gedung sekolah yang rusak akibat erupsi Gunung Kelud.",Kita Peduli Indosiar Salurkan Bantuan Recovery Bencana Gunung Kelud,,publish,open,open,,Kita Peduli Indosiar Salurkan Bantuan Recovery Bencana Gunung Kelud,,,,,,,http://localhost/pedulikasih/?p=218,62,post,,62
+219,1,28-02-16 5:24,28-02-16 5:24,"Sebagai perusahaan yang berkomitmen membantu terciptanya kualitas kesehatan masyarakat yang lebih baik, melalui Program Kita Peduli, Indosiar membangun fasilitas sanitasi berupa 14 unit MCK bagi pengungsi Sinabung di Posko Mardingding, Karo. ","Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,publish,open,open,,"Sanitasi Kurang Layak, Kita Peduli Bangun 14 MCK Di Desa Mardingding, Karo",,,,,,,http://localhost/pedulikasih/?p=219,63,post,,63
