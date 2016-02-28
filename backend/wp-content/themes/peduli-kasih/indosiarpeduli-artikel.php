@@ -25,7 +25,7 @@ get_header(); ?>
 					  $query_args = array(
 					    'post_type' => 'post',
 					    'category_name' => $title.'+'.$parent_title,
-					    'posts_per_page' => 2,
+					    'posts_per_page' => 5,
 					    'paged' => $paged
 					  );
 					  // create a new instance of WP_Query

@@ -3,7 +3,7 @@
  * =================================== */
 
 .submenu {
-	padding-bottom: 15px;
+    padding-bottom: 15px;
     @include breakpoint('xs') {
         border-bottom: 1px solid #ccc;
     }
@@ -20,7 +20,11 @@
     .parent-page {
         .title {
             margin-bottom: 0;
-            
+        }
+    }
+    li.page_item{
+        @include breakpoint('xs') {
+            @extend .col-xs-6;
         }
     }
 }

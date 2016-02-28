@@ -19,7 +19,7 @@ var reload = browserSync.reload;
 gulp.task('browserSync', function() {
 
     var files = [
-        './style.css',
+        './*.css',
         './*.php',
         './inc/template/*.php'
     ];
