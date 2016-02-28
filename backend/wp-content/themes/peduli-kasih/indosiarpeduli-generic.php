@@ -14,9 +14,9 @@ get_header(); ?>
 				<?php } ?>
 			<div class="row">
 				<aside class="submenu col-xs-12 col-sm-3">
-					<?php get_template_part('inc/template/content', 'submenu') ?>
+					<?php echo wpb_list_child_pages(); ?>
 				</aside>
-				<div class="user-content <?php is_child(); ?>">
+				<div class="user-content col-xs-12 col-sm-9">
 					<?php  
 						global $post;
 						
@@ -25,9 +25,6 @@ get_header(); ?>
 							<h1><?php the_title(); ?></h1>
 							<div class="__spacepad">
 								<?php the_content(); ?>
-							</div>
-							<div class="__right __spacepad">
-								<a href="<?php echo $getParentLink ?>"><button type="button" class="btn btn-primary btn-back">back</button></a>
 							</div>
 					<?php } ?>
 				</div>

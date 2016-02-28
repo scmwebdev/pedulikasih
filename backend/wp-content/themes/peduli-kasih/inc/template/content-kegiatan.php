@@ -2,6 +2,9 @@
 	<div class="item-list-name col-xs-12">
 		<h3><?php the_title(); ?></h3>
 	</div>
+	<div class="item-list-date col-xs-12">
+		<i><?php the_date(); ?></i>
+	</div>
 	<?php if ( has_post_thumbnail() ) { ?>
 		<div class="item-list-img col-xs-12 col-sm-3">
 			<?php the_post_thumbnail('square_small'); ?>
@@ -14,7 +17,7 @@
 		</div>
 	<?php } else { ?>
 		<div class="item-list-text col-xs-12 col-sm-12">
-			<?php the_content(); ?>
+			<?php the_excerpt(); ?>
 		</div>
 		<div class="item-list-btn __right">
 			<a href="<?php echo get_permalink() ?>"><button type="button" class="btn btn-primary">Baca selanjutnya</button></a>

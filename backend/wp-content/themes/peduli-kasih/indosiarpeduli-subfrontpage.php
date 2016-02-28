@@ -16,7 +16,7 @@ get_header(); ?>
 				<aside class="submenu col-xs-12 col-sm-3">
 					<?php echo wpb_list_child_pages(); ?>
 				</aside>
-				<div class="user-content <?php is_child(); ?>">
+				<div class="user-content col-xs-12 col-sm-9">
 					<h3>Daftar Donatur</h3>
 					<table class="table">
 					    <thead>

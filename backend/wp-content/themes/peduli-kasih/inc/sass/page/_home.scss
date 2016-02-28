@@ -23,6 +23,16 @@
                 }
             }
         }
+        &.disabled {
+            @extend .__disabled;
+            &:after {
+                content: 'Dalam pengerjaan';
+                text-align: center;
+                display: block;
+                font-weight: 700;
+                color: $color-disabled;
+            }
+        }
     }
 }
 

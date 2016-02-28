@@ -12,21 +12,16 @@ get_header(); ?>
 			<div class="container">
 				<div class="program clearfix">
 					<div class="program-list program-list-kitapeduli col-xs-6 col-sm-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/kitapeduli_logo.png'; ?>" alt="program - kita peduli">
+						<a href="<?php echo site_url().'/kita-peduli'; ?>">
+							<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/kitapeduli_logo.png'; ?>" alt="program - kita peduli">
+						</a>
 					</div>
-					<div class="program-list program-list-pedulikasih col-xs-6 col-sm-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikasih_logo.png'; ?>" alt="program - peduli kasih">
+					<div class="program-list program-list-pedulikasih col-xs-6 col-sm-4 disabled">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikasih_logo_lowopacity.png'; ?>" alt="program - peduli kasih">
 					</div>
-
-					<?php if(wp_is_mobile()) { ?>
-					<div class="program-list program-list-pedulikomunitas">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
+					<div class="program-list program-list-pedulikomunitas <?php frontPage_ismobile() ?> disabled">
+						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo_lowopacity.png'; ?>" alt="program - peduli komunitas">
 					</div>
-					<?php } else { ?>
-					<div class="program-list program-list-pedulikomunitas col-xs-6 col-sm-4">
-						<img class="img-responsive center-block" src="<?php echo get_stylesheet_directory_uri().'/inc/images/pedulikomunitas_logo.png'; ?>" alt="program - peduli komunitas">
-					</div>
-					<?php } ?>
 				</div>
 				<div class="user-content __spacemar">
 					<div class="user-content-title">

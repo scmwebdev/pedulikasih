@@ -57,3 +57,7 @@ ul.__nodot li {
 .not-active {
 	display: none;
 }
+
+.__disabled {
+	pointer-events: none;
+}

@@ -1,0 +1,3818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmxi_records><node>
+		<id><![CDATA[2176]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2179]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MINANDO]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2182]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BURHANUDDIN]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2185]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ROOS FARIEANNA ROWI IR]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2188]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[INTAN PERMATASARI]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2191]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SYLVIA ARLINI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2194]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PURWOKERTO]]></kota>
+		<nama><![CDATA[CONNY S]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2197]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KELAPA GADING]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2200]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRA SANTOSA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2203]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SHINTIA DEWI SUBRATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2206]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2209]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2212]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[HAMBA ALLAH]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2215]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[BTPN]]></nama>
+		<nilai><![CDATA[4,411,438]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2218]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SARMINI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2221]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IRIANINGSIH SURJA]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2224]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2227]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ADITYA HARNANDO B]]></nama>
+		<nilai><![CDATA[800,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2230]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2233]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BEKASI]]></kota>
+		<nama><![CDATA[SUGENG WIBOWO IR]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2236]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[INTAN MAYADEWI TJAHJAPUTRA]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2239]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2242]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JUWANA]]></kota>
+		<nama><![CDATA[BERTHA]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2245]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK ASRI]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[1,600,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2248]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PORWANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[13-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2251]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[13-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2254]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IR ADITYA DHARMA R MSC]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2257]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[RIA GUSMAN ANWARI]]></nama>
+		<nilai><![CDATA[110,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2260]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HARYADI RUSADI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2263]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANITA]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2266]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[INDRAMAYU]]></kota>
+		<nama><![CDATA[DAMARIO AL HAKA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2269]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NY SUWA KUNDARTI]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2272]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[JUNO ADHI SUWANDHONO]]></nama>
+		<nilai><![CDATA[6,700,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2275]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA DEWI LIE]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2278]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2281]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[125,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2284]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ELOK WIJAYANTI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2287]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEFRY YANTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2290]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2293]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2296]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SURONO SUBAGIO]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2299]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI MASYUDAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2302]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2305]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJIA PIT SIONG]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2308]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[YUDI KRISTANTO]]></nama>
+		<nilai><![CDATA[288,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2311]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DARWIN]]></nama>
+		<nilai><![CDATA[183,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[20-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2314]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMRI KOTO]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2317]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ALBETH SUCIADI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2320]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA ARIMURWANI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2323]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NUNU NURSAMSI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2326]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BANDUNG]]></kota>
+		<nama><![CDATA[NUNING SUNARTI DRA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2329]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[EVA JUNAIDA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2332]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEWI AYU RESTU SUSANTHI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2335]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2338]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2341]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[VICTOR WINATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2344]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BAMBANG WIJONO]]></nama>
+		<nilai><![CDATA[2,500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2347]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRO SETIYONO PRANOTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2350]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FARIDA HANUM]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2353]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2356]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YENI AMBARSARI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2359]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LENNY]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2362]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MARTONO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2365]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MARVEL]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2368]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[FREDY]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2371]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MELIANA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2374]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2377]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[JULIA MUSTIKAWATI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2380]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DANIEL WIDJAJA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2383]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PUNIA DEWI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[27-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2386]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RR SARTIKA NOERJO HADIKOESOEMO]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[27-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2389]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI NURHIDAYAH]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2392]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2395]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[VICENTIATITIN SUSANTI]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2398]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIT PRITA RANIS]]></nama>
+		<nilai><![CDATA[86,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2401]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KENDARI]]></kota>
+		<nama><![CDATA[DAFFA NET(KASIM]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2404]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ARISTIANTI ROSITA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2407]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NATALIA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2410]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[LAI KIAN MIN]]></nama>
+		<nilai><![CDATA[57,661]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2413]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[HANI FITRIANI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2416]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[AJIBARANG]]></kota>
+		<nama><![CDATA[RUSTIATI]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2419]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIEN HWA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2422]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2425]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SETYO WIDAYAH WATI]]></nama>
+		<nilai><![CDATA[43,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2428]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SENEN]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2431]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FANDI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2434]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NANI RAHMANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2437]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FARIDAH HANUM]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2440]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[IWAN SURYADI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2443]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[A A MADE ADIANA PUTRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2446]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DENPASAR]]></kota>
+		<nama><![CDATA[SIENNY SUNARTO]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2449]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[HENDRA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2452]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KELAPA GADING]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2455]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[12,172]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2458]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJOE SUJONO]]></nama>
+		<nilai><![CDATA[41,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2461]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SHINTIA DEWI SUBRATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2464]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ROOS FARIEANNA ROWI IR]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2467]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[WISNU PANGESTU]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2470]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RITA SUKAESIH]]></nama>
+		<nilai><![CDATA[40,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2473]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NURLAELAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2476]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RADHITA KUSUMA MAR]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2479]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ATIK SULASTRI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2482]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUGITA FIANI EKA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2485]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRA SANTOSA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2488]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[ELLY EMBRAN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2491]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[H RATNA SARI]]></nama>
+		<nilai><![CDATA[210,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2494]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SURYANTO OEI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2497]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ERI TARSERI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2500]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURIDIN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2503]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UMAR]]></nama>
+		<nilai><![CDATA[10,700]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2506]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[AHMAD SOPIAN]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2509]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TEGAL]]></kota>
+		<nama><![CDATA[DONI PRIHANTORO]]></nama>
+		<nilai><![CDATA[400,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2512]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[MEDAN]]></kota>
+		<nama><![CDATA[EVA DESI SOPAYANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2515]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2518]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NY SUWA KUNDARTI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2521]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[THOMAS TUNGGAL]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2524]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JEMBER]]></kota>
+		<nama><![CDATA[SIANNY]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2527]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2530]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[BTPN]]></nama>
+		<nilai><![CDATA[4,597,740]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2533]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PURWOKERTO]]></kota>
+		<nama><![CDATA[CONNY SRIANDJAJ]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2536]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJOE SUJONO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2539]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PANAM]]></kota>
+		<nama><![CDATA[BENNY KESUMA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2542]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SAMIRAH]]></nama>
+		<nilai><![CDATA[400,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2545]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANDAYANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2548]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DARWIN]]></nama>
+		<nilai><![CDATA[183,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2551]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ALEXANDER BONA POLA]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2554]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SINGARAJA]]></kota>
+		<nama><![CDATA[ATRI WAHYUNINGSIH]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2557]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2560]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANITA IRAWATI SUSANTIO]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2563]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[EMA ROSLINA IR]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2566]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SANTI ABDI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2569]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,008]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2572]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JUWANA]]></kota>
+		<nama><![CDATA[BERTHA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2575]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2578]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[LIE SAN SAN]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2581]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ERNI DWITA NINGSIH]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2584]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UKIE MARIA SUZANTY]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2587]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PORWANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2590]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2593]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA ARIMURWANI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2596]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[VICENTIATITIN SUSANTI]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2599]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[OFIANDA PURBA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2602]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TANJUNG KARANG]]></kota>
+		<nama><![CDATA[HJ. NURHAYATI]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2605]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BATAM]]></kota>
+		<nama><![CDATA[AINI RETNO]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2608]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURFITRI MUHBIROH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2611]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SOLO]]></kota>
+		<nama><![CDATA[WIRYA JAWATA KRIS APRIAWAN]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2614]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULIA ANGGRIANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2617]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[TRI HARYANTI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2620]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[2,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2623]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA DEWI LIE]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2626]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MITA STIOGRAHA]]></nama>
+		<nilai><![CDATA[125,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2629]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2632]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEFRY YANTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2635]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULI ERNAWATI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2638]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TANGERANG]]></kota>
+		<nama><![CDATA[TIN SIANG CIAN]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2641]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BURHANUDDIN]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2644]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANDY WIJAYA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2647]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BOGOR]]></kota>
+		<nama><![CDATA[INAWAN]]></nama>
+		<nilai><![CDATA[85,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2650]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIE]]></nama>
+		<nilai><![CDATA[3,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2653]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2656]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[NOSICA RIZKALLA]]></nama>
+		<nilai><![CDATA[69,112]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2659]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KUTA]]></kota>
+		<nama><![CDATA[INTAN MAYADEWI TJAHJAPUTRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[23-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2662]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[23-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2665]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2668]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HARTONO]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2671]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LINDA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2674]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[SURONO SUBAGIO]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2677]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2680]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[JULIA MUSTIKAWATI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2683]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LENNY]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2686]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRO SETIYONO PRANOTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2689]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MARGIYATI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2692]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[RININTA ANGGRAINI]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2695]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2698]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AINI RETNO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2701]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UKIE MARIA SUZANTY]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2704]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2707]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MARIA THERESIA MELISA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2710]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSILANITYA SULIARTA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2713]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANI FITRIANI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2716]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NGASIANTO]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2719]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2722]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BOGOR]]></kota>
+		<nama><![CDATA[ALDRINE JULIET]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2725]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIT PRITA RANIS]]></nama>
+		<nilai><![CDATA[120,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2728]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FERY WURYANINGSIH]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2731]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI NURHIDAYAH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2734]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KENDARI]]></kota>
+		<nama><![CDATA[DAFFA NET]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2737]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BEKASI]]></kota>
+		<nama><![CDATA[NANI RAHMANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2740]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IMELDA NUSANTARA]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2743]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[WINARTI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2746]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NATALIA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[30-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2749]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULIATI TENTRI SELVIA]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[30-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2752]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[OFIANDA PURBA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2755]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIEN HWA]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2758]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SEMARANG]]></kota>
+		<nama><![CDATA[ERWIN SANJAYA SETIAWAN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2761]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YENI AMBARSARI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2764]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ENIATI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2767]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2770]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURLAELAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2773]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NANIK PURWANINGSIH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2775]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2778]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PEKANBARU]]></kota>
+		<nama><![CDATA[BENNY]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2781]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[THO HENDRA WIJAYA]]></nama>
+		<nilai><![CDATA[33,333]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2784]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SEMARANG]]></kota>
+		<nama><![CDATA[SUGIANTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2787]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[KONG NGIOK HUA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2790]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[GRESIK]]></kota>
+		<nama><![CDATA[IWAN SURYADI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2793]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SULISTRIANI ROWI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2796]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FANDI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2799]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULI ERNAWATI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2802]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[DEWI ROSANTI BUDIASIANTO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2805]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PALEMBANG]]></kota>
+		<nama><![CDATA[BUDI OKTAFRIAS D]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2808]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[ATIK SULASTRI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2811]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[UJUNG PANDANG]]></kota>
+		<nama><![CDATA[THOMAS TUNGGAL]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2814]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULIA ANGGRIANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2817]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2820]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YUDI IRFAN ARRAFIQ]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2823]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ELLY EMBRAN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2826]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[EMA ROSLINA IR]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2829]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURIDIN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2832]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PADANG]]></kota>
+		<nama><![CDATA[SIANNY]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2835]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TANIA TANIREJA]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2838]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BONG BIE LIE]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2841]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[WISNU PANGESTU]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2844]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[CHRISTIEN AGNES MAMUSA KAENG]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2847]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2850]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MINANDO]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2853]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BURHANUDDIN]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2856]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ROOS FARIEANNA ROWI IR]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[05-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2859]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[INTAN PERMATASARI]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2862]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SYLVIA ARLINI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2865]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PURWOKERTO]]></kota>
+		<nama><![CDATA[CONNY S]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2868]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KELAPA GADING]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2871]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRA SANTOSA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2874]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SHINTIA DEWI SUBRATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2877]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[06-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2880]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2883]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[HAMBA ALLAH]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2886]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[BTPN]]></nama>
+		<nilai><![CDATA[4,411,438]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2889]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SARMINI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2892]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IRIANINGSIH SURJA]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2895]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2898]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ADITYA HARNANDO B]]></nama>
+		<nilai><![CDATA[800,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2901]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2904]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BEKASI]]></kota>
+		<nama><![CDATA[SUGENG WIBOWO IR]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2907]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[INTAN MAYADEWI TJAHJAPUTRA]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2910]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2913]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JUWANA]]></kota>
+		<nama><![CDATA[BERTHA]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2916]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK ASRI]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[1,600,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[12-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2919]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PORWANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[13-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2922]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[13-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2925]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IR ADITYA DHARMA R MSC]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2928]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[RIA GUSMAN ANWARI]]></nama>
+		<nilai><![CDATA[110,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2931]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HARYADI RUSADI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2934]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANITA]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2937]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[INDRAMAYU]]></kota>
+		<nama><![CDATA[DAMARIO AL HAKA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2940]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NY SUWA KUNDARTI]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2943]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[JUNO ADHI SUWANDHONO]]></nama>
+		<nilai><![CDATA[6,700,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2946]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA DEWI LIE]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2949]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2952]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[125,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2955]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ELOK WIJAYANTI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2958]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEFRY YANTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2961]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2964]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2967]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SURONO SUBAGIO]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2970]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI MASYUDAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[18-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2973]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2976]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJIA PIT SIONG]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2979]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[YUDI KRISTANTO]]></nama>
+		<nilai><![CDATA[288,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[19-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2982]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DARWIN]]></nama>
+		<nilai><![CDATA[183,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[20-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2985]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMRI KOTO]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2988]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ALBETH SUCIADI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2991]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA ARIMURWANI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2994]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NUNU NURSAMSI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[2997]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BANDUNG]]></kota>
+		<nama><![CDATA[NUNING SUNARTI DRA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3000]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[EVA JUNAIDA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3003]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEWI AYU RESTU SUSANTHI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3006]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3009]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[I GN OKTAVIANE ADHI CANDRA ST]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3012]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[VICTOR WINATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3015]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BAMBANG WIJONO]]></nama>
+		<nilai><![CDATA[2,500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3018]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRO SETIYONO PRANOTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3021]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FARIDA HANUM]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3024]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3027]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YENI AMBARSARI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3030]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LENNY]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3033]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MARTONO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3036]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MARVEL]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3039]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[FREDY]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3042]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[MELIANA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3045]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[CIDENG TIMUR]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3048]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[JULIA MUSTIKAWATI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3051]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DANIEL WIDJAJA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3054]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PUNIA DEWI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[27-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3057]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RR SARTIKA NOERJO HADIKOESOEMO]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[27-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3060]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI NURHIDAYAH]]></nama>
+		<nilai><![CDATA[75,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3063]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3066]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[VICENTIATITIN SUSANTI]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3069]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIT PRITA RANIS]]></nama>
+		<nilai><![CDATA[86,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3072]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KENDARI]]></kota>
+		<nama><![CDATA[DAFFA NET(KASIM]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3075]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ARISTIANTI ROSITA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3078]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NATALIA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3081]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[LAI KIAN MIN]]></nama>
+		<nilai><![CDATA[57,661]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3084]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[HANI FITRIANI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3087]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[AJIBARANG]]></kota>
+		<nama><![CDATA[RUSTIATI]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-Jun-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3090]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIEN HWA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3093]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3096]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SETYO WIDAYAH WATI]]></nama>
+		<nilai><![CDATA[43,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3099]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SENEN]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3102]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FANDI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3105]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NANI RAHMANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3108]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FARIDAH HANUM]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3111]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[IWAN SURYADI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3114]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[A A MADE ADIANA PUTRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3117]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DENPASAR]]></kota>
+		<nama><![CDATA[SIENNY SUNARTO]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3120]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[HENDRA]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[01-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3123]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KELAPA GADING]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3126]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[12,172]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3129]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJOE SUJONO]]></nama>
+		<nilai><![CDATA[41,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3132]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SHINTIA DEWI SUBRATA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3135]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ROOS FARIEANNA ROWI IR]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3138]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[WISNU PANGESTU]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3141]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RITA SUKAESIH]]></nama>
+		<nilai><![CDATA[40,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[02-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3144]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NURLAELAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3147]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RADHITA KUSUMA MAR]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3150]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ATIK SULASTRI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3153]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUGITA FIANI EKA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3156]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRA SANTOSA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3159]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[ELLY EMBRAN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3162]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[H RATNA SARI]]></nama>
+		<nilai><![CDATA[210,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3165]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SURYANTO OEI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3168]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ERI TARSERI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[03-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3171]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURIDIN]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3174]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UMAR]]></nama>
+		<nilai><![CDATA[10,700]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3177]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[AHMAD SOPIAN]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3180]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TEGAL]]></kota>
+		<nama><![CDATA[DONI PRIHANTORO]]></nama>
+		<nilai><![CDATA[400,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3183]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[MEDAN]]></kota>
+		<nama><![CDATA[EVA DESI SOPAYANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3186]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3189]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NY SUWA KUNDARTI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[04-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3192]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[THOMAS TUNGGAL]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3195]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JEMBER]]></kota>
+		<nama><![CDATA[SIANNY]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3198]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3201]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TRA OPERASI JAKARTA]]></kota>
+		<nama><![CDATA[BTPN]]></nama>
+		<nilai><![CDATA[4,597,740]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[07-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3204]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PURWOKERTO]]></kota>
+		<nama><![CDATA[CONNY SRIANDJAJ]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3207]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[TJOE SUJONO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3210]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[PANAM]]></kota>
+		<nama><![CDATA[BENNY KESUMA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3213]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SAMIRAH]]></nama>
+		<nilai><![CDATA[400,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[08-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3216]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANDAYANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3219]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DARWIN]]></nama>
+		<nilai><![CDATA[183,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3222]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ALEXANDER BONA POLA]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3225]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SINGARAJA]]></kota>
+		<nama><![CDATA[ATRI WAHYUNINGSIH]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[09-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3228]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RUDI]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3231]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANITA IRAWATI SUSANTIO]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3234]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[EMA ROSLINA IR]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3237]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SANTI ABDI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[10-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3240]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[100,008]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3243]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JUWANA]]></kota>
+		<nama><![CDATA[BERTHA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3246]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3249]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[LIE SAN SAN]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3252]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ERNI DWITA NINGSIH]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[11-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3255]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UKIE MARIA SUZANTY]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3258]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[PORWANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3261]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[1,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3264]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA ARIMURWANI]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3267]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[VICENTIATITIN SUSANTI]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3270]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[OFIANDA PURBA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3273]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TANJUNG KARANG]]></kota>
+		<nama><![CDATA[HJ. NURHAYATI]]></nama>
+		<nilai><![CDATA[300,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3276]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BATAM]]></kota>
+		<nama><![CDATA[AINI RETNO]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[14-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3279]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURFITRI MUHBIROH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3282]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SOLO]]></kota>
+		<nama><![CDATA[WIRYA JAWATA KRIS APRIAWAN]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3285]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULIA ANGGRIANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3288]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[TRI HARYANTI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3291]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FREDDY W]]></nama>
+		<nilai><![CDATA[2,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[15-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3294]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIANA DEWI LIE]]></nama>
+		<nilai><![CDATA[15,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3297]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MITA STIOGRAHA]]></nama>
+		<nilai><![CDATA[125,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3300]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3303]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[DEFRY YANTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3306]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULI ERNAWATI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[16-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3309]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[TANGERANG]]></kota>
+		<nama><![CDATA[TIN SIANG CIAN]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3312]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[BURHANUDDIN]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3315]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANDY WIJAYA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3318]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BOGOR]]></kota>
+		<nama><![CDATA[INAWAN]]></nama>
+		<nilai><![CDATA[85,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3321]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIE]]></nama>
+		<nilai><![CDATA[3,000,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3324]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[21-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3327]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[NOSICA RIZKALLA]]></nama>
+		<nilai><![CDATA[69,112]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[22-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3330]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KUTA]]></kota>
+		<nama><![CDATA[INTAN MAYADEWI TJAHJAPUTRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[23-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3333]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[23-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3336]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSANTO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3339]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HARTONO]]></nama>
+		<nilai><![CDATA[250,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3342]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LINDA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3345]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[DEPOK]]></kota>
+		<nama><![CDATA[SURONO SUBAGIO]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[24-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3348]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[RINA HARTATI S DRA]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3351]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[JULIA MUSTIKAWATI]]></nama>
+		<nilai><![CDATA[150,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3354]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LENNY]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3357]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HENDRO SETIYONO PRANOTO]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3360]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MARGIYATI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3363]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SURABAYA]]></kota>
+		<nama><![CDATA[RININTA ANGGRAINI]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[25-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3366]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AMANDA LARASATI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3369]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[AINI RETNO]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3372]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[UKIE MARIA SUZANTY]]></nama>
+		<nilai><![CDATA[80,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3375]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YANTI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3378]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[MARIA THERESIA MELISA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3381]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[SUSILANITYA SULIARTA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3384]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[HANI FITRIANI]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3387]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NGASIANTO]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3390]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[FOE ELTA]]></nama>
+		<nilai><![CDATA[10,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3393]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BOGOR]]></kota>
+		<nama><![CDATA[ALDRINE JULIET]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3396]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ANGGIT PRITA RANIS]]></nama>
+		<nilai><![CDATA[120,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3399]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[FERY WURYANINGSIH]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[28-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3402]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[SITI NURHIDAYAH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3405]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[KENDARI]]></kota>
+		<nama><![CDATA[DAFFA NET]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3408]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[BEKASI]]></kota>
+		<nama><![CDATA[NANI RAHMANI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3411]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[IMELDA NUSANTARA]]></nama>
+		<nilai><![CDATA[500,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3414]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[WINARTI]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[29-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3417]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NATALIA]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[30-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3420]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YULIATI TENTRI SELVIA]]></nama>
+		<nilai><![CDATA[25,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[30-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3423]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[OFIANDA PURBA]]></nama>
+		<nilai><![CDATA[200,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3426]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[LIEN HWA]]></nama>
+		<nilai><![CDATA[30,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3429]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[SEMARANG]]></kota>
+		<nama><![CDATA[ERWIN SANJAYA SETIAWAN]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3432]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[YENI AMBARSARI]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3435]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[ENIATI]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3438]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NN]]></nama>
+		<nilai><![CDATA[20,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3441]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[ -]]></kota>
+		<nama><![CDATA[NURLAELAH]]></nama>
+		<nilai><![CDATA[100,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node><node>
+		<id><![CDATA[3444]]></id>
+		<id2><![CDATA[0]]></id2>
+		<kota><![CDATA[JAKARTA]]></kota>
+		<nama><![CDATA[NANIK PURWANINGSIH]]></nama>
+		<nilai><![CDATA[50,000]]></nilai>
+		<pemakai><![CDATA[-]]></pemakai>
+		<tanggal><![CDATA[31-May-12]]></tanggal>
+		<kategori><![CDATA[person]]></kategori>
+	</node></pmxi_records>

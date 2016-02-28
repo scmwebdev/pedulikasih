@@ -1,0 +1,4 @@
+highlight child menu when on the page
+add featured img on article
+add photos on article singlepost
+add breadcrumbs on article singlepost

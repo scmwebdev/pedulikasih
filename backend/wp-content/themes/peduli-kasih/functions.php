@@ -145,10 +145,16 @@ function is_child() {
   } else {
     // This is not a subpage
     echo 'col-xs-12 col-sm-9';
-  }
+  };
 }
 
-
+function frontPage_ismobile() {
+  if(wp_is_mobile()) {
+    echo ' ';
+  } else {
+    echo 'col-xs-6 col-sm-4';
+  }
+}
 /* Enable featured image on pages/posts */
 add_theme_support( 'post-thumbnails' );
 
