@@ -31,13 +31,14 @@ gulp.task('browserSync', function() {
 });
 
 gulp.task('sass', function() {
-    return gulp.src('./inc/sass/main.scss')
+    gulp.src('./inc/sass/main.scss')
         .pipe(plumber())
         .pipe(sourcemaps.init())
         .pipe(sass({ outputStyle: 'compressed' }))
         .pipe(rename({basename: 'style'}))
         .pipe(autoprefixer())
         .pipe(sourcemaps.write())
+        .pipe(plumber.stop())
         .pipe(gulp.dest('./')) //output the file at root (app/)
         .pipe(reload({ stream: true }));
 });

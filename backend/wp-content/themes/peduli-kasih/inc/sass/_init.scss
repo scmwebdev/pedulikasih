@@ -13,9 +13,13 @@ body {
     position: relative;
 }
 
-// remove default padding-top
+// remove default padding-topdwadada
 .page-template .site-content,
 .single .site-content {
     padding-top: 2em !important;
     padding-bottom: 5em;
+}
+
+.btn {
+	text-transform: capitalize;
 }
